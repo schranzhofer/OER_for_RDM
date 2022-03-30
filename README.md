@@ -1,16 +1,14 @@
 <!--
-author:   Your Name
+author:   Hermann Schranzhofer
 
-email:    your@mail.org
+email:    hermann.schranzhofer@tugraz.at
 
 version:  0.0.1
 
 language: en
 
-narrator: US English Female
-
-comment:  Try to write a short comment about
-          your course, multiline is also okay.
+comment:  This is a short course on the topic Research Data Management.
+          It was created during the project FAIR Data Austria.
 
 link:     https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.css
 
@@ -22,24 +20,36 @@ translation: Deutsch  translations/German.md
 
 # Open Educational Resources for Research Data Management
 
-Description: The collection of open educational resources (OER) on the following pages was created by the Training Task Force in 2021 as part of the FAIR Data Austria project (BMBWF, 2020-2022). The collection consists of selected OER enhanced by further information and interactive elements to provide an introduction to the following nine topics. The pages or the individual elements can be reused to create informational and training materials on research data management. The collection is also available at https://fair-office.at/index.php/lernen-sie-mehr/.
+
+{{1}}
+Dieser Block erscheint als erster.
+
+{{2-3}} Dieser Block als zweiter und
+verschwindet bei drei.
+
+
+```prolog blumenstrauss.pro
+rot(rose).
+gelb(tulpe).
+weiss(nelke).
+blau(vergissmeinnicht).
+blau(veilchen)
+```
+
+__Description:__ The collection of open educational resources (OER) on the following pages was created by the Training Task Force in 2021 as part of the FAIR Data Austria project (BMBWF, 2020-2022). The collection consists of selected OER enhanced by further information and interactive elements to provide an introduction to the following nine topics. The pages or the individual elements can be reused to create informational and training materials on research data management. The collection is also available at https://fair-office.at/index.php/lernen-sie-mehr/.
 
 
 
-Authors: Christiane Stork, Elena Fürst, Heike Thöricht, Hermann Schranzhofer, Nikos Gänsdorfer, Tereza Kalová, Therese Macher.                                      The authors were supported by interns at the Vienna University Library in August 2021: Christine Stridde, Rebecca Ringbauer, Sonja Schillings, Tamara Köstenbach.
+__Authors:__ Christiane Stork, Elena Fürst, Heike Thöricht, Hermann Schranzhofer, Nikos Gänsdorfer, Tereza Kalová, Therese Macher.
+The authors were supported by interns at the Vienna University Library in August 2021: Christine Stridde, Rebecca Ringbauer, Sonja Schillings, Tamara Köstenbach.
 
-License: CC BY 4.0 unless otherwise stated
+__License:__ [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) unless otherwise stated
 
-Cite the collection as: FAIR Data Austria (2021). Open Educational Resources Research Data Management. Link to website (https://fair-office.at/index.php/lernen-sie-mehr/?lang=en).
+__Cite the collection as:__ FAIR Data Austria (2021). Open Educational Resources Research Data Management. Link to website (https://fair-office.at/index.php/lernen-sie-mehr/?lang=en).
 
-Learn more about FAIR
-
-
-
+[Learn more about FAIR](https://fair-office.at/index.php/information-for-researchers/learn-more-about-fair/?lang=en)
 
 ## File Formats
-
-__Short explanation__<!-- style="color: black; font-size: 30px;" -->
 
 The file format is created by saving a file and contains information about the structure of data contained in a file, its purpose and affiliation. Application software can use the information available in the file format to interpret the data and make the contents available. The format of a file is added to the actual name with an appropriate extension. This consists of a point and two to four letters.
 
@@ -47,22 +57,22 @@ With so-called proprietary formats, the files can only be opened, edited and sav
 
 File formats can be actively changed by conversion when saving, but data loss can occur. In the scientific field, particular attention should be paid to compatibility, suitability for long-term archiving and lossless conversion to alternative formats.
 
-__Video__<!-- style="color: black; font-size: 30px;" -->
-
 !?[youtube](https://www.youtube.com/watch?v=kxxlQnc8u1I)
 
-Duration:  5:12 min
+__Duration:__  5:12 min
 
-Content: This short knowledge clip explains what file formats are, why they are important for research data management and what you should pay attention to.
+__Content:__ This short knowledge clip explains what file formats are, why they are important for research data management and what you should pay attention to.
 
-Licence: CC-BY 4.0
+__Licence:__ [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en)
 
-__Transcript__<!-- style="color: black; font-size: 30px;" -->
+```block -Transcript
+> What is the importance of file formats in research data management?
 
-
-What is the importance of file formats in research data management?
-
-A file format is a way of encoding information within a computer file. When a programme or an application wants to use a file, it needs to recognise the file format so that it can access the content within a file. One of the most common ways to recognise a file format is to look at the file name extension. Usually this is represented by three or four characters at the end of the file name after a full stop.
+> A file format is a way of encoding information within a computer file. When a programme or an
+> application wants to use a file, it needs to recognise the file format so that it can access the
+> content within a file. One of the most common ways to recognise a file format is to look at the file
+> name extension. Usually this is represented by three or four characters at the end of the file name
+> after a full stop.
 
 When you start planning your project, it is important to consider the file formats that you will use throughout your research. Sometimes the choice of a format is influenced by norms within your research discipline. For instance, by commonly used software programmes or file formats that you and your colleagues have used in the past. Or, the choice might also depend on the type of hardware or instrument you will use. In other situations, choosing a specific format might limit the possibility to collaborate with other scientist who don’t have access to the same software tools.
 
@@ -87,9 +97,10 @@ There are two types of compression. Lossless compression allows the original dat
 But there are also lossy types of compression where some of the content is lost. Before performing a lossy compression, it is advisable to do some research to understand what compression parameters should be used. The objective should be to retain the critical information needed to make your files reusable.
 
 As you can see, there are a few things to consider when it comes to file formats. To get started you can access a list of recommended formats via our website. Take a look!
+```
 
 
-__Quiz__<!-- style="color: black; font-size: 30px;" -->
+__Quiz__<!-- style="color: black; font-size: 20px;" -->
 
 
 
@@ -113,14 +124,14 @@ What is the best way to ensure that digital data is accessible for a long time?
     [[ ]] The use and storage of hardware-specific data formats
     [[X]] The use and storage of open data formats
 
-__Further information__<!-- style="color: black; font-size: 30px;" -->
+__Further information__<!-- style="color: black; font-size: 20px;" -->
 
 You can find further information including [descriptions of various file formats](https://www.loc.gov/preservation/digital/formats/fdd/descriptions.shtml) on the Library of Congress website.
 
 You can download data management best practices evaluation checklist from the UCSB Library for some helpful tips on file formats and organization.
 
 
-__Citation__<!-- style="color: black; font-size: 30px;" -->
+__Citation__<!-- style="color: black; font-size: 20px;" -->
 
 FAIR Data Austria (2021). “File formats “. In: Research Data Management Open Educational Resources Collection. (https://fair-office.at/index.php/fileformates/?lang=en).
 
