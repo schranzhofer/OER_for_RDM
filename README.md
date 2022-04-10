@@ -118,7 +118,7 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) unless otherw
 
 ## Data Management Plan (DMP)
 
-Creating a Data Management Plan (DMP) for any research project is considered good scientific practice and increasingly mandated by research stakeholders. (Early) Planning for [Research Data Management (RDM)](## Research Data Management (RDM)) can save a lot of time, money and problems in the long run and will therefore increase scientific integrity and transparency. __The content of a DMP covers core topics such as data description, documentation, metadata & standards, data storage & security, sharing & reuse, legal & ethical issues as well as responsibilities & costs related to research data management.__
+Creating a Data Management Plan (DMP) for any research project is considered good scientific practice and increasingly mandated by research stakeholders. (Early) Planning for [Research Data Management (RDM)](#6) can save a lot of time, money and problems in the long run and will therefore increase scientific integrity and transparency. __The content of a DMP covers core topics such as data description, documentation, metadata & standards, data storage & security, sharing & reuse, legal & ethical issues as well as responsibilities & costs related to research data management.__
 
 The time for submission of the DMP depends on the individual requirements of institutions or funders. Generally, a DMP should be seen as a __living document__ that starts as light version and grows gradually until submission of the full or final DMP version at the end of the project. Institutions or funders may provide special DMP templates or recommendations for DMP tools such as DMPonline or RDMO for the creation of a DMP.
 
