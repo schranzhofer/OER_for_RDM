@@ -297,6 +297,25 @@ FAIR data is always open data
     [[X]] False
 
 
+__Further information__<!-- style="color: black; font-size: 20px;" -->
+
+
+* __FAIR self-assessment tool:__ With this free online tool you can evaluate the “FAIRness” of a data set by answering questions about the individual aspects of FAIR.
+
+    https://ardc.edu.au/resources/working-with-data/fair-data/fair-self-assessment-tool/
+
+* __How to Make Your Data FAIR:__ You can find more tips on making your data FAIR on the OpenAIRE ([Link OpenAIRE](https://www.openaire.eu/)) website.
+
+    https://www.openaire.eu/how-to-make-your-data-fair
+
+
+__Citation__<!-- style="color: black; font-size: 20px;" -->
+
+__License:__ [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) unless otherwise stated
+
+    FAIR Data Austria (2021). “FAIR data vs. Open Data”. In: Research Data Management Open Educational Resources Collection.  (https://fair-office.at/index.php/fair-data-vs-open-data/?lang=en).
+
+
 
 ## FAIR Principles
 
