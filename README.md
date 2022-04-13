@@ -78,27 +78,26 @@ As you can see, there are a few things to consider when it comes to file formats
 
 What criteria should be considered when choosing a format?
 
-```
-[[ ]] Formats are not of importance at all
-[[X]] Compatibility, suitability for long-term archiving and lossless conversion
-[[ ]] Proprietary data format and compressibility
-```
+    [( )] Formats are not of importance at all
+    [(X)] Compatibility, suitability for long-term archiving and lossless conversion
+    [( )] Proprietary data format and compressibility
+
 
 Which file formats should be used?
 
-```
-[[ ]] Files or formats should be encrypted, compressed, proprietary or patented
-[[X]] Open, documented standards should be preferred
-[[ ]] The file format does not matter, as software companies ensure compatibility anyway
-```
+
+    [( )] Files or formats should be encrypted, compressed, proprietary or patented
+    [(X)] Open, documented standards should be preferred
+    [( )] The file format does not matter, as software companies ensure compatibility anyway
+
 
 What is the best way to ensure that digital data is accessible for a long time?
 
-```
-[[ ]] The use and storage of proprietary data formats
-[[ ]] The use and storage of hardware-specific data formats
-[[X]] The use and storage of open data formats
-```
+
+    [( )] The use and storage of proprietary data formats
+    [( )] The use and storage of hardware-specific data formats
+    [(X)] The use and storage of open data formats
+
 
 **Further information**<!-- style="color: black; font-size: 20px;" -->
 
@@ -154,27 +153,21 @@ As we've mentioned, many institutions or research funders will provide a DMP tem
 
 Why should you write a DMP?
 
-```
-[[ ]] because it is a new requirement of the Federal Ministry of Education, Science and Research (BMBWF)
-[[X]] primarily to increase my sienctific integrity and because my institution or funders may ask for it
-[[ ]] no, it generally does not make sense writing a DMP because it is just an additional administrative burden
-```
+      [( )] because it is a new requirement of the Federal Ministry of Education, Science and Research (BMBWF)
+      [(X)] primarily to increase my sienctific integrity and because my institution or funders may ask for it
+      [( )] no, it generally does not make sense writing a DMP because it is just an additional administrative burden
 
 What topics should be included in a DMP?
 
-```
-[[X]] how you will deal with storage and sharing of your research data
-[[ ]] a detailed cost listing of salaries and consumables
-[[ ]] administrative information of your former publications
-```
+      [(X)] how you will deal with storage and sharing of your research data
+      [( )] a detailed cost listing of salaries and consumables
+      [( )] administrative information of your former publications
 
 When should you start writing a DMP?
 
-```
-[[ ]] when the project is finished and almost published
-[[X]] best before the project starts because then you can properly plan the handling of your research data throughout the whole project lifecycle
-[[ ]] funders normally ask for it after publication of the research results
-```
+      [( )] when the project is finished and almost published
+      [(X)] best before the project starts because then you can properly plan the handling of your research data throughout the whole project lifecycle
+      [( )] funders normally ask for it after publication of the research results
 
 **Further information**<!-- style="color: black; font-size: 20px;" -->
 
@@ -262,26 +255,20 @@ This module introduces you to best practices for making your data FAIR. Followin
 
 What does the acronym FAIR stand for?
 
-```
-[[X]] Findable, accessible, interoperable, reusable
-[[ ]] Factorial, analysable, informative, recognizable
-[[ ]] Fair, accurate, inclusive, respectful
-```
+    [(X)] Findable, accessible, interoperable, reusable
+    [( )] Factorial, analysable, informative, recognizable
+    [( )] Fair, accurate, inclusive, respectful
 
 Which statement about Open Data is correct?
 
-```
-[[X]] Open Data means information that is freely accessible.
-[[ ]] With Open Data, only data that is related to a scientific interpretation can be considered.
-[[ ]] With Open Data, the availability and usability of data on the web is limited.
-```
+    [(X)] Open Data means information that is freely accessible.
+    [( )] With Open Data, only data that is related to a scientific interpretation can be considered.
+    [( )] With Open Data, the availability and usability of data on the web is limited.
 
 FAIR data is always open data
 
-```
-[[ ]] True
-[[X]] False
-```
+    [( )] True
+    [(X)] False
 
 **Further information**<!-- style="color: black; font-size: 20px;" -->
 
@@ -296,9 +283,7 @@ FAIR data is always open data
 
 **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) unless otherwise stated
 
-```
 FAIR Data Austria (2021). “FAIR data vs. Open Data”. In: Research Data Management Open Educational Resources Collection.  (https://fair-office.at/index.php/fair-data-vs-open-data/?lang=en).
-```
 
 ## FAIR Principles
 
