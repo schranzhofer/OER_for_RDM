@@ -28,6 +28,9 @@ translation: Deutsch translations/German.md
 
 [Learn more about FAIR](https://fair-office.at/index.php/information-for-researchers/learn-more-about-fair/?lang=en)
 
+
+
+
 ## File Formats
 
 The file format is created by saving a file and contains information about the structure of data contained in a file, its purpose and affiliation. Application software can use the information available in the file format to interpret the data and make the contents available. The format of a file is added to the actual name with an appropriate extension. This consists of a point and two to four letters.
@@ -110,6 +113,9 @@ You can download [data management best practices evaluation checklist](https://w
 FAIR Data Austria (2021). “File formats “. In: Research Data Management Open Educational Resources Collection. (https://fair-office.at/index.php/fileformates/?lang=en).
 
 License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) unless otherwise stated.
+
+
+
 
 ## Data Management Plan (DMP)
 
@@ -221,6 +227,9 @@ FAIR Data Austria (2021). “Data Management Plan (DMP)“. In: Research Data Ma
 
 License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) unless otherwise stated.
 
+
+
+
 ## FAIR Data vs. Open data
 
 **FAIR Data**
@@ -285,7 +294,131 @@ FAIR data is always open data
 
 FAIR Data Austria (2021). “FAIR data vs. Open Data”. In: Research Data Management Open Educational Resources Collection.  (https://fair-office.at/index.php/fair-data-vs-open-data/?lang=en).
 
+
+
+
 ## FAIR Principles
+
+
+
+In 2016, FORCE11 – a group of researchers as well as employees of libraries, archives, publishers and funders – established principles for the handling of research data. The so-called FAIR principles comprise four goals: the findability, accessibility, interoperability and re-usability of data. With the achievement of these goals, the sustainable re-usability of research data is meant to be guaranteed.
+
+Biernacka, Katarzyna, Bierwirth, Maik, Buchholz, Petra, Dolzycka, Dominika, Helbig, Kerstin, Neumann, Janna, … Wuttke, Ulrike. (2020). Train-the-Trainer Concept on Research Data Management (Version 3.0). Zenodo. http://doi.org/10.5281/zenodo.4071471 p. 36, Creative Commons Attribution 4.0 International
+
+!?[youtube](https://youtu.be/2uZxFu9SFi8)
+
+**Duration:** 4:45 min
+
+**Content:** In this video we take a look at FAIR data and the meaning of the individual FAIR principles (findable, accessible, interoperable and reusable).
+It also covers how (trusted) data repositories are a key infrastructure that enables FAIR data.
+
+**Licence:** [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en) For documentation; source of License: [Catalogue – D4Science Infrastructure Gateway](https://eosc-pillar.d4science.org/catalogue-eoscpillar?path=/dataset/knowledge_clip_-_fair_data_principles)
+
+**Transcript:**<!-- style="color: black; font-size: 20px;" -->
+
+**What are the FAIR principles and what is FAIR data**? FAIR are a set of guiding principles that** enable and increase the reuse of data by humans and machines**. FAIR is an acronym that stands for **Findable, Accessible, Interoperable and Reusable**. The FAIR principles originated in the life sciences, but can be applied to all disciplines. They are increasingly gaining traction and becoming **a requirement by many research funders among others**. Let's have a look at what each FAIR principle means.
+
+**FINDABLE:** To** enable its discovery, data should be described with rich metadata, and it should be assigned a persistent identifier, such as a digital object identifier or DOI**. These metadata should be available online in a searchable resource such as a data catalog or repository.
+
+**ACCESSIBLE:** Metadata and/or the data themselves should be retrievable via their persistent identifier using a standard communication protocol, such as HTTP or HTTPS. This means that following the persistent identifier should take you to the metadata or data. However, keep in mind that **accessible** **does not mean that data must be open** in the sense that there are no access restrictions. It rather means that if data **has access conditions, these are clear to both humans and machines**. Therefore the protocol for accessing the data should allow for an authentication and authorization procedure where necessary. In addition, metadata should be accessible even if the data themselves are no longer available.  
+
+**INTEROPERABLE:** Whenever possible, metadata and data should use **recognized standards**. By using formats, terms or vocabularies, that a community has agreed upon, we make sure our data is understandable by others but we also make possible for data **to be exchanged and combined across computer systems**. Interoperability also involves **providing context by including references to other relevant metadata and data**. For example by linking to another data set on which your data set is built.
+
+**REUSABLE:** Data should **not only be available, but also effectively reusable.** To achieve this, data should be abundantly **described and documented in accordance with community standards**. Metadata and documentation should be able to answer the W-questions, to help **others understand what we call the provenance of the data**. In other words, where did data come from and what happened to them along the way. All of this is needed when we want others to understand the context of the data and judge how relevant and useful they are. It increases trust and the likelihood of reuse to make data reusable. We also need to let others know what kinds of reuse are permitted, by including a clear data usage license.
+
+Given the multiple aspects of FAIR, data is not either FAIR or UNFAIR. FAIR is a spectrum, in other words data can be **FAIR to a greater or lesser extent**. So, how can you make your data FAIR? Unfortunately there is **not a one-size-fits-all**, but note that much of the work for making your research data FAIR can be addressed by depositing your data in a trusted data repository. By choosing an appropriate **trusted and preferably domain-specific repository** you can score many points in the FAIR game. When you upload your data to a repository you will typically **need to provide metadata by filling a form**. The elements of the form comply with a specific metadata standard. Your metadata will then become **machine-actionable and searchable in an online resource**. The repository should also generate a **persistent identifier for your data**. It will also provide the possibility to include references to other data or metadata; for example to link to related data sets or your ORCiD. In addition, trusted repositories will have authentication and authorization procedures in place to make sure that appropriate access conditions for the data are respected or enforced. And repositories also allow you to choose from machine-readable **licenses** enhancing the reusability of your data. **Domain specific repositories tend to make use of discipline standards and controlled vocabularies**, increasing the interoperability of your data.
+
+**Data repositories are indeed a key infrastructure enabling FAIR data**. However, they won't do all the work for you. After all, you are the one that knows the data best. So you are still **responsible to provide rich metadata and documentation to make the data understandable**. Besides, if a discipline repository requires the data to be in a certain standard format and to use controlled vocabularies, the standardization process is still your job to do. Therefore, **the sooner data is being collected and managed in a FAIR way, the easier it will be to keep the data FAIR in the end.** This is sometimes referred to as making data FAIR by design. That is why planning for data management even **before you start collecting data is essential**. So are you ready to make your data FAIR?
+
+**Quiz**<!-- style="color: black; font-size: 20px;" -->
+
+Which of the following scenarios comply with the FAIR criteria?
+
+    [[ ]] Within a project, extensive Excel tables with different data have been created. For the purpose of long-term archiving, these tables are published as PDF files in a research data repository.
+    [[X]] The data are provided with an individually specified license.
+    [[X]] After completion of the project, the data is published in a repository with a free and open protocol, e.g. http.
+    [[X]] If different versions of a data set exist, links are provided to the other versions.
+
+FAIR is an acronym that stands for...
+
+    [(X)] Findable, Accessible, Interoperable and Reusable
+    [( )] Facebook Artificial Intelligence Research
+    [( )]Fair, Accurate, Inclusive and Respectful Education
+
+In which disciplines can the FAIR data principles be applied?
+
+    [(X)]All disciplines
+    [( )] Humanities
+    [( )] Natural sciences
+
+Accessible means…
+
+    [[ ]] the date must be open.
+    [[X]] the data does not necessarily have to be open.
+    [[X]] the data has access conditions and these are clear to both humans and machines.
+    [[ ]] the data is open for access, but not for reuse.
+
+How do we make sure our data is understandable?
+
+    [(X)] By using formats, terms or vocabularies, that a community has agreed upon.
+    [( )] By adding a special glossary that explains our data.
+    [( )] Our data should not be understandable by potential reusers.
+
+Reusable means…
+
+    [(X)] that the data has clear usage licenses and is usable by both people and machines.
+    [( )] that all data is usable.
+    [( )] that the data has clear usage licenses to be used by people.
+
+
+**Further information**<!-- style="color: black; font-size: 20px;" -->
+
+* **Comment in Nature regarding FAIR Principles**
+
+[Wilkinson, M. D. et al. (2016). The FAIR Guiding Principles for scientific data management and stewardship. Sci. Data 3:160018](http://doi.org/10.1038/sdata.2016.18)
+
+* **FAIR-Principles and the European Commission**
+
+[European Commission. Action Plan for FAIR data recommendations](https://ec.europa.eu/info/sites/default/files/turning_fair_into_reality_1.pdf)
+
+[The EC expert group on FAIR data](http://ec.europa.eu/transparency/regexpert/index.cfm?do=groupDetail.groupDetail&groupID=3464&NewSearch=1&NewSearch=1)
+
+[EC/H2020 – Guidelines on FAIR Data Management in Horizon 2020](http://ec.europa.eu/research/participants/data/ref/h2020/grants_manual/hi/oa_pilot/h2020-hi-oa-data-mgt_en.pdf)
+
+* **GO FAIR Initiative**
+
+GO FAIR is a bottom-up, stakeholder-driven and self-governed initiative that aims to implement the [FAIR data principles](https://www.go-fair.org/fair-principles/), making data Findable, Accessible, Interoperable and Reusable (FAIR). It offers an open and inclusive ecosystem for individuals, institutions and organisations working together through [Implementation Networks](https://www.go-fair.org/implementation-networks/) (INs). The INs are active in three activity pillars: [GO CHANGE](https://www.go-fair.org/fields-of-action/go-change/), [GO TRAIN](https://www.go-fair.org/fields-of-action/go-train/) and [GO BUILD](https://www.go-fair.org/fields-of-action/go-build/).
+
+https://www.go-fair.org/fair-principles/
+
+* **The FAIR Office Austria, which is part of the global GO FAIR initiative, networks researchers and service institutions to implement the FAIR principles.**
+
+[FAIR Office Austria](https://fair-office.at/?lang=en)
+
+* **Training material for “FAIR” in the train-the-trainer program for Research Data Management**
+
+Biernacka, Katarzyna, Bierwirth, Maik, Buchholz, Petra, Dolzycka, Dominika, Helbig, Kerstin, Neumann, Janna, … Wuttke, Ulrike. (2020). Train-the-Trainer Concept on Research Data Management (Version 3.0). Zenodo. http://doi.org/10.5281/zenodo.4071471 (p. 38)
+
+* **OPENAIRE**
+
+A network of Open Access repositories, archives and journals that support Open Access policies. The OpenAIRE Consortium is a [Horizon 2020](https://en.wikipedia.org/wiki/Framework_Programmes_for_Research_and_Technological_Development#Horizon_2020) (FP8) project, aimed to support the implementation of the [EC](https://en.wikipedia.org/wiki/European_Council) and [ERC Open Access](https://en.wikipedia.org/wiki/Open_Access) policies.
+
+https://www.openaire.eu/how-to-make-your-data-fair
+
+* **FAIR-Principles and the Committee on Data for Science and Technology (Codata)**
+
+The [Committee on Data for Science and Technology](https://codata.org/) (CODATA) is a Paris-based organization with the aim of improving the quality, reliability and accessibility of interesting data from all fields of science and technology.
+
+[Hodson, S. (2018). Making FAIR data a reality… and the challenges of interoperability and reusability. Open Science Conference 2018.](https://www.open-science-conference.eu/wp-content/uploads/2018/03/OSC2018_Hodson.pdf)
+
+
+**Citation**<!-- style="color: black; font-size: 20px;" -->
+
+**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) unless otherwise stated
+
+FAIR Data Austria (2021). “FAIR data vs. Open Data”. In: Research Data Management Open Educational Resources Collection.  (https://fair-office.at/index.php/fair-prinzipien/?lang=en).
+
+
 
 ## Research Data Management (RDM)
 
