@@ -651,7 +651,86 @@ FAIR Data Austria (2021). “FAIR data vs. Open Data”. In: Research Data Manag
 **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) unless otherwise stated
 
 
+
 ## Open Science
+
+
+
+
+
+Open Science offers new opportunities in dealing with scientific knowledge and represents a kind of cultural change. Through transparency and openness, Open Science increases the use and further development of knowledge as well as the potential for collaboration and the credibility of science. The focus is on free access to scientific processes and findings for everyone via the internet and the right to re-use this content. The beneficiaries of this concept are not only science, but also society and the economy.
+
+Open Science is realised through various strategies and procedures, such as free access to scientific publications (Open Access), computer programmes (Open Source Software), data (Open Data) and educational materials (Open Educational Resources).
+
+!?[youtube](https://youtu.be/3m6p6w8oOw4)
+
+**Duration:** 3:50 min
+
+**Content:** This video explains in less than four minutes the idea and advantages of open science. You learn about the 4 Rs and what the word “open” in open science stands for: open access, open data, open methods.
+
+**Licence:** [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en)
+
+**Transcript:**<!-- style="color: black; font-size: 20px;" -->
+
+
+
+
+Open Science: what, how & why?
+
+As a researcher, you're spending hours, months or even years locked away in search of the meaning of life. Who knows what you're really doing? Are you getting the credit you deserve? And is the world getting enough out of you? Let's talk about this, let's open up!
+
+Open Science is making your research results **available for anyone** interested. It's not only about making your publications available and reusable via **open access**, but also making your research data open by following the **FAIR principles**: findable, accessible, interoperable and reusable. Open Science as well refers to being **transparent about your process and methods**. The goal of Open Science is to allow others to use and **reuse** your results. This can be done before, during, or after the research process. This way, you can from the very beginning, make your research **visible and valuable** for others. Researchers, the professional community, companies and society can benefit from it. By giving others the opportunity to respond to your results and using their feedback, you also have the chance to create a more authoritative work.
+
+What is there to open in Open Science? **Open Access, Open Data, Open Metrics and Impact, Open Source, Open Repositories, Open Lab Journals and Notebooks** to name but a few. Interested? Here are four words starting with R to think about, when engaging in Open Science:
+
+**Reliable.** It is important to evaluate the research in two ways. First with respect to scientific principles and criteria like validity, second with respect to criteria out of the professional context. This will help ensure that your results are more reliable.
+
+**Reproducible.** Transparency is critical when doing research. Open Science allows you to clearly show what you've done to get the results you have. By being open about your methods, processes and decision making during your research, someone else doing the research again should get the same results.
+
+**Reusable.** This is the same R we mentioned when we talked about FAIR. By making a research results reusable, you allow others to build upon the solid foundation your research has already created in a given subject.
+
+**Relevant.** Research quality describes the measurable influence of academic research on the academic community. Research impact includes environmental, cultural and societal impact, economic returns and societal benefits.
+
+So, follow the four R's of Open Science! Let your research be reliable, reproducible, reusable and relevant. But I bet you're thinking: “There's no way, I can’t do this alone!” Relax, there's help. You can contact the library, the often available institutional research support team, a corporate copyright information point, or a research data management office. There are also national initiatives that can support you or the team with the tricky questions. The NAI.HBO, the LCRDM and SURF are all there to help. These are all Dutch initiatives but other countries have equivalent organizations that are willing to help you.
+
+Let's recap: follow the FAIR principles, be transparent, stay with the 4 R's, engage others and ask for help when you need it. That way, we can all benefit from the research you are doing. Behind closed doors in your lab coat with your goggles on. Open Science - just science done right.
+
+**Quiz**<!-- style="color: black; font-size: 20px;" -->
+
+What do the 4 Rs in the context of Open Science stand for?
+
+    [( )] Readable, refreshable, recognizable, and receivable
+    [(X)] Reliable, reproducable, reusable, and relevant
+    [( )] Recitable, renameable, replicatable, and repairable.
+
+Which statement is correct?
+
+    [( )] Open Science sounds good, but it is unfair because researchers with limited financial means cannot afford access to open research results.
+    [(X)] Open Science promotes the transparency of science and the free reuse of existing research results by everyone.
+    [( )] Open Science ensures better networking of researchers within the EU. A worldwide exchange is currently not possible.
+
+What are the arguments in favour of Open Data?
+
+    [( )] Generally, open data is not subject to a review process, so this type of data publication is always significantly faster.
+    [( )] Lower costs and less time needed to prepare the data than with a closed access publication.
+    [(X)] Accessibility of scientific data and metadata, source texts and digital reproductions.
+
+**Further information**<!-- style="color: black; font-size: 20px;" -->
+
+
+* “Open science is a policy priority for the European Commission and the standard method of working under its research and innovation funding as it improves the quality, efficiency and responsiveness of research.” This statement and more information about the EU’s view on Open Science can be found at the [EU’s Open Science platform](https://ec.europa.eu/info/research-and-innovation/strategy/strategy-2020-2024/our-digital-future/open-science_en).
+* Since 2019, the FWF has had an [Open Access Policy](https://www.fwf.ac.at/en/research-funding/open-access-policy) that applies to both peer-reviewed publications and research data.
+* This graphic shows the different terms behind Open Science. Knoth, Petr; Pontika, Nancy (2015): Open Science Taxonomy. figshare. Figure. https://doi.org/10.6084/m9.figshare.1508606.v3
+* In Austria, a [national Open Science policy](https://www.bmbwf.gv.at/Themen/HS-Uni/Hochschulgovernance/Leitthemen/Digitalisierung/Open-Science/Open-Science-Policy-Austria.html) has been in place since February 2022.
+
+**Citation**<!-- style="color: black; font-size: 20px;" -->
+
+FAIR Data Austria (2021). “Open Science“. In: Research Data Management Open Educational Resources Collection. (https://fair-office.at/index.php/offene-wissenschaft/?lang=en).
+
+**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) unless otherwise stated
+
+
+
 
 ## Persistent Identifier (PID)
 
