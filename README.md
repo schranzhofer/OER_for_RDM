@@ -731,7 +731,95 @@ FAIR Data Austria (2021). “Open Science“. In: Research Data Management Open 
 
 
 
-
 ## Persistent Identifier (PID)
+
+[In Research Data Management (RDM)](#Research-Data-Management-%28RDM%29), the term “persistent identifier (PID)” refers to a permanent digital identifier consisting of alphanumeric characters that is assigned to a data set or other digital object and refers directly to it. By entering the PID in a search engine, interested parties can reliably find the corresponding object in a straightforward manner. In addition, any number of [metadata](#Metadata) can be linked to the persistent identifier and thus to the associated dataset.
+
+Frequently used PID systems are DOI (Digital Object Identifiers), PURL (Persistent Uniform Resource Locators) and URN (Uniform Resource Names). Unlike other serial identifiers (for example URL addresses), a persistent identifier refers to the object itself and not to its storage location or position on the internet. If the storage location of a digital object associated with a persistent identifier changes, the identifier remains the same. Only the URL needs to be changed or added in the identifier database. This ensures that a record remains permanently findable, accessible, and citable.
+
+PIDs are assigned by the editor when publishing a scientific article, for example. In the case of research data, a PID is usually assigned automatically when the data is uploaded to a repository. It is also often possible to reserve PIDs (for example DOIs) in advance. In this way, the identifier can already be mentioned in the document to be uploaded.
+
+In addition to object identifiers, other persistent identifiers play a role in research as well. These are in the first place unique and permanent IDs reserachers (for example ORCID iD) and reserach organizations (for example ROR). They help to refer to the correct researcher and affiliation, regardless of posible name changes and the language used.
+
+
+!?[youtube](https://youtu.be/kHHNNT2IQjU)
+
+**Duration:** 6:50 min
+
+**Content:** The short video from RWTH Aachen University provides a good introduction to the topic of persistent identifiers (PID). You will learn what PIDs are and how they are used in the context of research data management.
+
+Dominik Schmitz, Daniela Hausen, Ute Trautwein-Bruns: Persistent Identifier (PID). RWTH Aachen University. 2020. Available at DOI: [10.18154/RWTH-2019-10059](https://doi.org/10.18154/RWTH-2019-10059).
+
+**Licence:** This video is licensed under a Creative Commons Attribution licence [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en). Explicitly excepted are the avatars/illustrations. These are licensed under Shutterstock’s standard image license and are not sublicensed to third parties.
+
+**Transcript:**<!-- style="color: black; font-size: 20px;" -->
+
+
+
+Welcome to our series on research data management. Today's topics are **persistent identifiers**. And the point is, this video explains what a persistent identifier is and what it can be used for. So let's start.
+
+We refer again to our fake science example of squirrel research. Luise Leader is heading a project in regards to squirrel research in Germany and Great Britain, comparing it to her theoretical model. As a first attempt on working with her data she has chosen a small geographical area, the Eifel National Park. It is a little bit tedious but of course possible to select the control points from Germany that belong to this geographical area. And she's plotting her results. Well, that is something strange in this data. Of course there are more squirrels in summer than in winter, but where do all the squirrels in Rurberg come from from May onwards? That's nothing that she can easy explain. So she simply calls Frank Forscher, her partner in Germany. And he immediately knows what the situation is about: "Well, in May we put up another control point. **That's the point. It doesn't occur in your data that we've aggregated**, but it's clear in my data." So that's clear from here onwards. But the next question Luise has is: "Well, I want to stick with my time period and geographical area. So tell me which of the stations, Rurberg North or South, was the one, that was already available in April?" Frank couldn't answer this question so easy. He has to contact the rangers in the National Park.
+
+In the meantime, the two of them talk about a recent paper, that has Frank Forscher on his desk. It fits perfectly well: „Squirrels in Germany. Why so many?“. Frank simply mentions the **DOI** of this journal article to Luise and she can immediately find the article herself. And indeed, the article is of interest to her. But much more interesting is: who is Josiah Carberry? Could that be a potential collaborator? Fortunately he has noted his **ORCID-ID** within the paper. From there it is quite easy for Luise to find out the current affiliation and to get in contact with him. So they have a great telephone call and discuss some issues of squirrel research even though Josiah Carberry is only interested in red-brown squirrels.
+
+Now Luise starts to think: "Well, would a persistent identifier, such as the DOI for journal articles or the ORCID for researchers, would that have helped me with the confusion within this data project?" And indeed it could. If we would replace the names of the location for the control points by some kind of identifier, then we would have the chance to detect quite easily which of the stations were available on April and in May, Rurberg North or South in the earlier slides. And further on we could add any additional information to some separate table that's denoting the ID and then possibly the geographic location by a latitude and longitude, camera version, things like that. And if that has been available, it would have been much easier for Luise Leader to select the control points, that belong to the geographical area of Eifel National Park.
+
+Now, such an ID is something that every researcher can give to data, that he or she produces. Now, what makes an ID **persistent**? If there's some central or at least community-based registration, that takes care of these ideas, ensures that there's no doubling and ensures that the information is **durably or reliably available** then we arrive at some persistent identifier. For example, the EPIC consortium is providing identifiers for data, even before data is published.
+
+Now, let's summarize. **What is a PID?** A persistent identifier is a **globally, unique and persistent identification of a**, not necessarily digital, **resource**. What you need is some centralized or world or at least community-wide registration, some organization that is taking care of that and that also takes care of resolving any reference to this persistent identifier.
+
+If you have that available, you can refer your data from for example within your publication. You can name it towards your funders. You can even use it to describe more complex structures within your data - for example you have **different versions** of your data available and relate them via PIDs. Or you have even more complex structures, where you have a **hierarchy of data elements** that we refer to via persistent identifiers. That's for example the case with the climate report. Since such a persistent identifier resolves with **only one click**, in general it is very fast and easy to arrive at the place, where the data is stored, even if it is not yet accessible.
+
+Further on, we avoid the so-called **broken links**. This is the case because we decouple the reference from storage location so even if the data has been moved from the researcher's laptop to the institutional archive, we still can find the data since the reference stays the same. And finally, you can associate any **additional supplementary information** with the data simply by adding it to some record as we have done with the control points or as we have the authors, title, year with a DOI.
+
+If you have any more questions on persistent identifiers or need assistance in using them, please contact us via the service desk.
+
+**Quiz**<!-- style="color: black; font-size: 20px;" -->
+
+What are PIDs assigned for?
+
+    [(X)] PIDs allow that (digital) resources such as research data can be permanently found, retrieved and cited.
+    [( )] To increase the amount of administrative work for researchers.
+    [( )] PIDs guarantee that only authorised users can access the data.
+
+How can I find a dataset that is uniquely identified with a DOI?
+
+    [( )] To find a specific dataset, I need the title of the dataset in addition to the DOI.
+    [( )] I need to know in which repository the dataset is stored. Then, I simply enter the DOI in the search mask of the repository's website.
+    [(X)] I enter the DOI into a common search engine and see what happens.
+
+An ORCID iD serves ...
+
+    [( )] to indicate that a publication is openly accessible.
+    [(X)] the exact assignment of publications/research activities to a specific researcher.
+    [( )] the exact assignment of a publication to a specific research institution.
+
+Which statement is true?
+
+    [( )] Persistent identifiers are assigned at country level. A PID must therefore always contain a two-digit country code according to ISO standard 3166.
+    [(X)] In many data repositories, a persistent identifier is assigned automatically when the data is uploaded.
+    [( )] A PID is only assigned to data sets that are available to everyone without restriction (open access).
+
+Can the "broken links" problem be avoided by using PIDs?
+
+    [(X)] Yes, because the PID decouples the reference from the storage location.
+    [( )] Yes, but only as long as the metadata belonging to the PID is not changed.
+    [( )] Maybe, but it is not worth the enormous effort to obtain a PID.
+
+**Further information**<!-- style="color: black; font-size: 20px;" -->
+
+
+* [DOI-Service Austria](https://www.tuwien.at/en/library/doi-service-austria-orcid-austria): Since January 2020, with the DOI Service Austria, TU Wien Bibliothek has been providing all Austrian universities, research institutions and other non-profit organisations in the research and education sector domiciled in Austria with an attractive opportunity to register and use Digital Object Identifiers (DOIs) to ensure stable retrieval of academic output via the internet.
+* [ORCID Austria](https://www.tuwien.at/kooperationen/orcid/): ORCID Austria is a consortium of interested Austrian research and research funding institutions. A major goal of this consortium is to establish ORCID iD as the primary unique personal identifier for researchers in Austria.
+* [ROR](https://ror.org/): The Research Organization Registry (ROR) is a community-led registry of open, sustainable, usable, and unique identifiers for research organizations.
+
+
+**Citation**<!-- style="color: black; font-size: 20px;" -->
+
+FAIR Data Austria (2021). “Persistent Identifier (PID)“. In: Research Data Management Open Educational Resources Collection. (https://fair-office.at/index.php/pid/?lang=en).
+
+**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) unless otherwise stated
+
+
 
 ## Publication of data
