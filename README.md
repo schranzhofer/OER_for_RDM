@@ -823,3 +823,160 @@ FAIR Data Austria (2021). “Persistent Identifier (PID)“. In: Research Data M
 
 
 ## Publication of data
+
+
+~~Repositories~~
+
+Repositories are used to archive, document and publish digital objects. They are storage locations for data, which enable the publication and archiving of data independent of the scholarly article itself in terms of time and space.
+
+Depending on the repository, data, data sets, descriptions of experiments and evaluations, audio-visual objects such as image and video files, models of simulations and also software can be published. In some repositories, entire research data sets can be stored in their complex form as a single unit (e.g. “collection” in [PANGAEA](https://pangaea.de/)).
+
+
+~~Types of repositories~~
+
+Repositories can be classified according to various aspects. Most often, they are distinguished by whether they are discipline-specific, cross-discipline/generic or institutional.
+
+Discipline-specific or disciplinary repositories offer the advantage of visibility in the research community and are already established institutions in some disciplines. However, not all academic subject areas have yet established discipline-specific repositories.
+These repositories usually offer discipline-specific knowledge and know-how in the field of research data management, e.g. with regard to the curation of data or to special services (e.g. visualisation tools), but also specific tools for the analysis, research and visualisation.
+
+Examples of discipline-specific repositories:
+
+* ARCHE (https://arche.acdh.oeaw.ac.at/) a Resource Centre for Humanities Related Research in Austria
+* AUSSDA (https://aussda.at/) the Austrian Social Science Data Archive
+* GenBank (http://www.ncbi.nlm.nih.gov/genbank) for genetic research data
+* Integrated Ocean Observing System (https://ioos.noaa.gov) for data from marine environmental research
+* NoMaD (http://nomad-repository.eu) for data on materials in the field of physics
+* PANGAEA (https://pangaea.de) for earth science data
+* TextGrid repository (https://textgridrep.org/) for the humanities (XML/TEI-based).
+
+For interdisciplinary research, the assignment of the resulting data to a subject area may be difficult. Cross-disciplinary repositories offer a solution here. They generally accept very different types of data and provide a good search function. In most cases, however, they do not curate the data or offer other forms of quality control.
+
+Examples of cross-disciplinary, generic repositories:
+
+* ZENODO (https://zenodo.org): Digital data from all research areas, a product from the EU OpenAIRE project
+* DRYAD (http://datadryad.org): Focus on life sciences, not free of charge
+
+Institutional repositories are also emerging more and more. Currently, they offer an alternative if no suitable discipline-specific repository is available. Compared to generic repositories, they have the advantage that control over the data remains in-house and at the same time the visibility of one’s own institution is increased. Legal framework conditions for handling data can also speak in favour of publication in one’s own repository. Institutional repositories are generally available and can be used free of charge for all of the institution’s own subject areas.
+
+Some examples of institutional repositories in Austria:
+
+* TU Vienna (https://researchdata.tuwien.ac.at/)
+* University Vienna (https://phaidra.univie.ac.at/)
+* TU Graz (https://repository.tugraz.at/)
+* IST Austria (https://research-explorer.app.ist.ac.at/)
+* FH St. Pölten (https://phaidra.fhstp.ac.at/)
+
+
+~~Selection of a repository~~
+
+In order to find an appropriate repository, the cross-disciplinary directory re3data (https://www.re3data.org) can be used. This is a DFG-funded project that lists German and international repositories for research data, with more than 2.700 entries at present (status from 02.08.2021). Here you may select the discipline, type of data or country. It is also possible to filter by very detailed criteria, for example for repositories that charge a fee for data upload or where data use is restricted.
+
+When selecting a repository for data publication, the following order of priority is recommended:
+
+1. an external discipline-specific repository that is recognised in the discipline
+2. an institutional repository, or
+3. a cost-free multidisciplinary repository
+
+Specific criteria for selecting a suitable repository:
+
+1. certification, e.g. [Core Trust Seal](https://www.coretrustseal.org/)
+2. (automated) assignment of persistent identifiers, e.g. DOI, handle
+3. access to data: open, restricted or inaccessible
+4. clear terms of use for data authors and users, e.g. fees, embargo periods
+
+The options for choosing a license may also influence the choice of a suitable repository.
+
+(Adapted from: Biernacka, K., Bierwirth, M., Buchholz, P., Dolzycka, D., Helbig, K., Neumann, J., Odebrecht, C., Wiljes, C. and Wuttke, U. (2020). “Train-the-Trainer Concept on Research Data Management” Version 3.0. Berlin, DOI: https://doi.org/10.5281/zenodo.4071471, [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode))
+
+
+!?[youtube](https://youtu.be/o1gMy6pQjOY)
+
+**Duration:** 9:00 min
+
+**Content:** "Research data for publications" is an educational video that uses a fictional example to show how to deal with research data that form the basis of a publication. It explains how such data can be consciously selected, structured in a comprehensible way and finally made publicly available on a repository for reuse.
+
+(Schmitz,D., Hausen, D., Trautwein-Bruns, U. (2018). “Research data to publications” RWTH Aachen University, DOI: 10.18154/RWTH-2019-10063)
+
+**Licence:** [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en)
+
+
+**Transcript:**<!-- style="color: black; font-size: 20px;" -->
+
+
+Welcome to our series on research data management. Today's topics are research data to publications, so this is: We consider the data that are underlying a publication or the publication is based on. Again, we look at our fake science example on squirrel research. Louise Leader thinks back to the project that she had with Frank Forscher and Rachel Research. They have built a great project and they have performed very well and have produced some highly cited publications in top ranked journals. So everything's fine with that, but it's really amazing: People are asking her nowadays, the project has long been terminated, for data, for some particular aspects, that have not been published in some publications. But when other researchers ask for these data it's quite some topic and quite some time taking from her in order to again dig into the data and find out where the details of this new request could be answered or how it could be answered from the data, and where the details can be found.
+
+So the core question is, what is the best way to cope with data where publications are based on? What should she do with these or what should she have done with that? Well, when Louise thinks about her own project, there are at least three aspects that come to her mind that should be addressed. For one thing, it should be not so hard to find the data again. So, it must be really easy to find them in the file structure, find exactly the part that a new researcher is interested in. Another point is that it would be nice to have all the contextual information available at the same point in time, so it's no need to dig deeper into the folder structure for example to find some hidden mail somewhere where something is explained that must be explained to somebody who wants to reuse the data again. And eventually, the best thing would be that she wouldn't be in the need to answer each of these requests individually but to simply make the data available in a way that others can easily reuse them.
+
+~~Now, when she thinks and looks at these aspects - findable, accessible - something appears in her mind, that is [FAIR](#FAIR-Principles) data~~. So this is a topic or term that she has heard quite frequently. There have been many researchers talking about making their data **FAIR**. So what's that about? And it's an acronym so you find that comes from findable so that's exactly what Louise also wants to do. She wants the data to be findable, so, by others, in this case. Then, the next point is that the data should be accessible. Accessible doesn't immediately mean openly accessible but there are somehow ways to get to the data. The next point is something that is called interoperable, so this more or less talks about how this data can be in a way that others can easily reuse it because it's somehow in a compatible format for example or using some standard formats or standard vocabulary and this already leads to the last point, reusable. This is the core point for Louise's approach. She wants to make her data reusable by others. Typically, this also includes something like licensing issues for example. Now what is needed to make data **FAIR**? Is this something that Louise Leader should also consider for her old data? So, what can she do?
+
+Something that she has already done is of course to preserve her research data according to good scientific practice, for at least 10 years. That's mainly done by using a suitable infrastructure, but the core point when you think about data that belonged to a particular publication is that you make clear what data exactly went into this publication. So, you must make a kind of sensible selection of the data in order to package it in a way that it fits with this publication. You should also think about a reasonable naming and a reasonable structure of your data. Notice that other people that want to reuse the data might not be experts of the concrete working packages that have been carried out within this older project. So, maybe something more recent or something that is more closely related to the publication, like for example, referring a diagram numbering or a diagram title, might make sense to, in order to be used to structure and name your data. Often it is the case that you have some accompanying information to the raw data and if you put that data close to your raw data then it makes it much easier to find the data, to understand the data, and to not search for additional information maybe in some old mail that has been archived somewhere else, not within this folder. So, if you have context information try to preserve this together with your raw data. And of course, you use a professional preservation service as it is for example provided with your institution with your University IT Center for example.
+
+And eventually, using a [Persistent Identifier (PID)](#Persistent-Identifier-%28PID%29) makes it much easier to link your data with your publication. We will look at that point in a little bit detail later on again. Now, what's the point of publishing research data then? You actively distribute your data. And the point is that you should choose an appropriate repository for example. Another important aspect is, if you publish your data you should get a **persistent identifier**. As we've already seen with the preservation, a comprehensible documentation is necessary so everything that is needed in order to correctly interpret and understand the data must be provided as accompanying information. Well, talking about reuse it might be the case that you must provide some conditions, some licensing for example, under which others can reuse your data and that's of course also an important part when you publish your research data. Ok, then finally, we wanted to talk about linking publications. There are two types that I want to distinguish here. One is linking a publication with also published research data. The example we have taken here is a PhD thesis at RWTH University, and this person has in addition to the PhD thesis also provided some datasets that belong to this thesis, and they are linked here within the original front page of the PhD thesis but they also have, as published research data, front pages of their own.
+
+So, they really have a linkage, both of these records or all of these records in this case here have DOIs of their own and can be referred independently. If you do not have published research data but "only" preserved research data, we offer at RWTH Aachen University the possibility to enter a reference to such archived data. So this is kind of less visible, but it's occurring here in this second tab and it is referring again a **persistent identifier**, but this is a particular one, an epic. It's not a **DOI**, it doesn't provide so many metadata which is intended because we do not want to publish too much information here. And it is intended primarily for internal use as indicated here. So, this is for example the place where all the archived data that are in our backup and archiving system here at Aachen University. And if you want you can get an **persistent identifier** for your archive and you can link it here. So, that at least you or your institute has access to the data that is underlying the publication. And all the others still arrive at some kind of a contact form, so a front page of these resolving **persistent identifier**, where they again try to get in contact with the persons responsible for the data, so at least asking whether it is possible to get the data. If you have any more questions on publications and the interlinking with data and how you can publish your data or preserve your data and make a linkage between them: Just contact us via the Service Desk. Thank you!
+
+**Quiz**<!-- style="color: black; font-size: 20px;" -->
+
+
+
+Why does Louise Leader have to deal with her research data long after the research project has been completed?
+
+    [(X)] Other researchers want to access their data and use them for further research.
+    [( )] Because she forgot to archive it.
+    [( )] She wants to double check the data.
+    [( )] She would like to block it from being used by other researchers by granting appropriate licenses.
+
+What does Louise want from a solution for the re-use of her research data?
+
+    [(X)] The publications should be linked directly to the relevant data, all metadata should be available directly with the data, and access should be possible independently by other researchers.
+    [( )] Nobody should be able to re-use her data, other researchers have to make their own surveys.
+    [( )] The data should be stored on a local server in her private environment. She wants to keep control over the data provision.
+
+What does FAIR mean in relation to research data?
+
+    [(X)] Data should be findable, accessible, interoperable and reusable.
+    [( )] FAIR is about the application of game theory in the scientific community; in the event of a conflict over data usage, a so-called “FAIR mediator” (referee) is called.
+    [( )] FAIR stands for: Research data should be well-founded, ambitious, realistic and above all equipped with integrity.
+
+When archiving research data, it is important to ensure that ...
+
+    [(X)] ... the data are sensibly selected and reasonably named, and have a persistent identifier.
+    [( )] ... the data can only be used with proprietary software.
+    [( )] … data and context information are stored separately from one another.
+
+
+**Further information**<!-- style="color: black; font-size: 20px;" -->
+
+
+* **Generalist Repository Comparison Chart:**
+
+This chart is designed to assist researchers in finding a generalist repository should no domain repository be available to preserve their research data.
+
+https://doi.org/10.5281/zenodo.3946720
+
+* **Fact Sheet: Research Data Repositories**
+
+With this fact sheet, we would like to provide all interested parties with important information about research data repositories.
+
+https://doi.org/10.5281/zenodo.3760348
+
+* **Research data repositories:**
+
+A short description of repositories with examples and furhter links.
+
+https://www.forschungsdaten.info/fdm-im-deutschsprachigen-raum/schweiz/rdm-infrastructure-repositories/repositories/
+
+* **Data Guidelines European Commission**
+
+This page provides information about research data that needs to be include when publishing an article in Open Research Europe, where your data can be stored, and how your data should be presented.
+
+https://open-research-europe.ec.europa.eu/for-authors/data-guidelines
+
+
+
+
+**Citation**<!-- style="color: black; font-size: 20px;" -->
+
+FAIR Data Austria (2021). “Publication of Data”. In: Research Data Management Open Educational Resources Collection. (https://fair-office.at/index.php/publikation-von-daten/?lang=en).
+
+**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) unless otherwise stated
