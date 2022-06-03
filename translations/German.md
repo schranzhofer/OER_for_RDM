@@ -436,6 +436,85 @@ Lizenz: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de) soweit 
 ## Forschungsdatenmanagement (FDM)
 
 
+Forschungsdatenmanagement (FDM) beinhaltet alle Aktivitäten im Zusammenhang mit digitalen Forschungsdaten, die ihre dauerhafte Verfügbarkeit und Nachvollziehbarkeit sichern. FDM begleitet jede Phase im Forschungsdatenlebenzyklus – beginnend mit der Planung eines Forschungsprojektes, über die Erhebung und Aufbereitung der Daten, ihre Speicherung und interne Bereitstellung (data sharing), bis hin zu ihrer Veröffentlichung. Effektives FDM soll dazu beitragen die langfristige Auffindbarkeit und Überprüfbarkeit von Forschungsdaten sicher zu stellen und neue, innovative Forschung basierend auf bereits existierendem Wissen zu ermöglichen. Hierbei maßgeblich unterstützend ist ein sogenannter [Datenmanagementplan (DMP)](#Datenmanagementplan-%28DMP%29). Ein DMP ist ein strukturiertes Dokument und essentielles Instrument für FDM, indem Forschende festhalten, wie mit den Forschungsdaten während und vor allem nach Ende des Projekts, umgegangen wird. Er bildet den gesamten Lebenzyklus der Daten ab.
+
+
+!?[youtube](https://youtu.be/fMxhFRAul80)
+
+**Dauer:** 3:59 min
+
+**Inhalt:** Das Video gibt eine kurze Einführung in Forschungsdatenmanagement und Datenmanagementpläne.
+
+**Licence:** [Creative Commons Attribution 3.0 License](http://creativecommons.org/licenses/by/3.0/) ; Anna Daudrich, Jürgen Rohrwild, Tugsbayar Batbayar (2019): Forschungsdaten-Management und Erstellung von Datenmanagementplan-Plänen. https://www.studon.fau.de/pg560960_2993053.html
+
+**Transcript:**<!-- style="color: black; font-size: 20px;" -->
+
+Sie beginnen ein neues Forschungsprojekt. **Im Laufe Ihrer Forschung werden unterschiedliche Forschungsdaten** anfallen. Dabei kann die Form der Daten jener Fachdisziplin variieren. Diese können beispielsweise als digitale Aufnahmen von Kunstwerken, als Digitalisate von Handschriften, als 3D-Modelle archäologischer Denkmäler, oder auch als Transkriptionen von Interviews vorliegen. Es ist wichtig, **alle anfallenden Forschungsdaten nachhaltig zu sichern**. Das heißt, die Voraussetzungen dafür zu schaffen, dass **auch nach dem Projektende andere Forschende auf die Daten zugreifen und diese verstehen können**. Eine nachhaltige Sicherung und Bereitstellung der Forschungsdaten ist wichtig, um **neue Ergebnisse zu erzielen, oder um frühere Ergebnisse zu überprüfen beziehungsweise nachzuvollziehen**. So können die Forschungsdaten, die Sie im Rahmen Ihrer wissenschaftlichen Untersuchung neu generiert haben, auch im Kontext anderer Projekte analysiert und für die Beantwortung neuer Fragestellungen nachgenutzt werden. So wie Sie dafür gesorgt haben, dass Ihre Daten nachhaltig gesichert und verfügbar gemacht wurden, können andere Forschende auf deren Grundlage neue Forschungsergebnisse erzielen. Sie können natürlich auch selbst auf die vorhandenen Daten zurückgreifen und diese unter einem neuen Bezugspunkt untersuchen. In diesem Fall ist die Bereitstellung der anfallenden Daten notwendig, um Ihre Forschungsergebnisse nachvollziehen beziehungsweise überprüfen zu können. Um die Forschungsdaten nachhaltig zu sichern, ist ein richtiger Umgang mit Forschungsdaten von grundlegender Bedeutung. Hierbei spricht man vom **Management der Forschungsdaten**.
+
+Das Forschungsdatenmanagement umfasst **alle Aktivitäten mit digitalen Forschungsdaten, die ihre dauerhafte Verfügbarkeit und Verständlichkeit sichern**. Darunter fällt unter anderem die Aufbereitung der Daten, also z. B. deren Umwandlung in ein geeignetes Dateiformat, oder das Korrigieren von Datenfehlern, die Sicherung und Versionierung der Daten, die Erstellung einer nachvollziehbaren Datendokumentation, die Archivierung der Daten, oder auch deren Veröffentlichung und Zugänglichmachung. Es ist wichtig, alle Maßnahmen und Aktivitäten des Forschungsdatenmanagements bereits **vor Beginn des Forschungsprozesses** zu planen. Ein entsprechend formulierter [Datenmanagementplan (DMP)](#Datenmanagementplan-%28DMP%29) erleichtert dabei die Projektplanung. Im Forschungsdatenmanagementplan wird festgelegt, was mit Ihren Daten **während und vor allem nach Ihrem Projekt** passieren wird. Dabei wird z. B. beschrieben, **wie Sie Ihre Daten erheben oder sammeln, verarbeiten, archivieren und teilen werden, welche Kosten dabei entstehen werden, oder auch wer und in welcher Phase für das Management der Forschungsdaten zuständig sein wird**. Wenn Sie einen Drittmittelantrag stellen, z. B. beim Europäischen Forschungsrat, müssen Sie häufig auch so einen Datenmanagementplan einreichen. Um Ihnen die Erstellung von Datenmanagementplänen zu erleichtern, wurden dafür spezielle Werkzeuge entwickelt. Bei den Hilfswerkzeugen handelt es sich um **Software-Tools, welche Templates, also Vorlagen zur Verfügung stellen**. Eine solche Vorlage setzt sich meist aus einem **Fragenkatalog** zusammen. Dieser Katalog enthält wiederum gezielte Fragen zum Umgang mit anfallenden Forschungsdaten während des Projektes und nach seinem Ende. Zu den Fragen gibt es häufig Beispielantworten, weiterführende Links und weitere Hilfestellungen. Mittlerweile gibt es viele Tools zur Erstellung von Datenmanagementplänen, z.B. der RDMO (https://rdmo.aip.de/), das DMP-Online (https://dmponline.dcc.ac.uk/) oder das DMP-Wizard (https://ds-wizard.org/). Informieren sie sich beim Zuständigen fürs Forschungsdatenmanagement an Ihrer Institution, um zu wissen, welche Werkzeuge Ihnen zur Verfügung stehen. Vielen Dank fürs Zuschauen.
+
+
+**Quiz**<!-- style="color: black; font-size: 20px;" -->
+
+Welche der genannten Tools sind DMP-Tools?
+
+    [[X]] RDMO
+    [[ ]] Re3data
+    [[X]] DMP-Wizard
+    [[X]] DMP-Online
+    [[ ]] Repositorium
+
+Was sind Forschungsdaten?
+
+    [(X)] Digitale Daten, die während des Forschungsprozesses entstehen.
+    [( )] Digitale Daten, die von Unternehmen erhoben werden.
+    [( )] Informationen wie Dauer, beteiligte Personen, Budget eines Projektes, in dem Forschungsdaten erhoben werden.
+
+Was ist FDM?
+
+    [(X)] FDM begleitet den gesamten Lebenszyklus von Forschungsdaten und soll die Nachhaltigkeit und langfristige Auffindbarkeit der Daten sicherstellen
+    [( )] FDM befasst sich primär mit der Generierung von Daten
+    [( )] FDM ist die Abkürzung für „Forschungsdatenmodell“
+
+Was versteht man unter Forschungsdatenmanagement?
+
+    [( )] Es bezieht sich auf die Organisation der Metadatenstandards.
+    [(X)] Es bezieht sich auf Aktivitäten oder Aktionen, wie das Planen, Sammeln und Organisieren von Daten
+    [( )] Es trennt die personenbezogenen Daten von den Studiendaten.
+
+Was ist ein DMP?
+    [( )] ein DMP ist bürokratischer Mehraufwand und hilft nicht dabei Daten optimal für deren Nachnutzung aufzubereiten
+    [(X)] ein DMP ist ein essentielles Instrument für FDM und bildet den gaesamten Lebensyklus der Daten ab
+    [( )] ein statisches Dokument
+
+Was ist ein zentrales Ziel von Forschungsdatenmanagement?
+    [( )] Forschungsdaten nach der Erstellung so schnell wie möglich von einem beliebigen Forschenden auswerten zu lassen.
+    [(X)] Forschungsdaten langfristig und personenunabhängig zugänglich, nachnutzbar und nachprüfbar zu halten.
+    [( )] Forschenden eine zusätzliche Arbeit aufzubürden.
+
+
+**Weiterführende Informationen**<!-- style="color: black; font-size: 20px;" -->
+
+**Website forschungsdaten.info**
+
+Umfangreiche Informationen rund um das Thema Forschungsdatenmanagement auf der Website forschungsdaten.info
+
+https://www.forschungsdaten.info/
+
+**Das Train-the-Trainer Konzept zum Thema Forschungsdatenmanagment von FDMentor**
+
+Das Programm Train-the-Trainer zum Thema Forschungsdatenmanagement (FDM) umfasst die Aspekte des Forschungsdatenmanagements als auch didaktische Einheiten zu Lernkonzepten, Workshopgestaltung und eine Reihe von didaktischen Methoden:
+Biernacka, Katarzyna, Buchholz, Petra, Danker, Sarah Ann, Dolzycka, Dominika, Engelhardt, Claudia, Helbig, Kerstin, … Wuttke, Ulrike. (2020). Train-the-Trainer Konzept zum Thema Forschungsdatenmanagement (Version 3.1). Zenodo. http://doi.org/10.5281/zenodo.4322849 (ab S. 45)
+
+**Linksammlung zur Einführung in das Thema Forschungsdatenmanagement der Humboldt Universität zu Berlin**
+
+https://www.forschungsdaten.org/images/d/d9/Handout-A1-Einf%C3%BChrung-in-das-Forschungsdatenmanagement.pdf
+
+**Zitationshinweis**<!-- style="color: black; font-size: 20px;" -->
+
+FAIR Data Austria (2021). „Datenmanagementplan (DMP)“. In: Offene Bildungsressourcen Forschungsdatenmanagement. (https://fair-office.at/index.php/fdm/)
+
+Lizenz: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de) soweit nicht anders angegeben.
 
 
 ## Metadaten
