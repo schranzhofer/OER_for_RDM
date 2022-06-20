@@ -519,6 +519,123 @@ Lizenz: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de) soweit 
 
 ## Metadaten
 
+~~Datendokumentation~~
+
+Damit Forschungsdaten besser auffindbar und nachvollziehbar sind, ist eine Dokumentation der Daten unverzichtbar. Dies erleichtert die weitere Nutzung der Daten erheblich und ermöglicht die Reproduzierbarkeit. Gut dokumentierte Daten werden häufiger genutzt und zitiert, was das Renommee des Erstellers/der Erstellerin erhöht. Auch für die eigene Nachnutzbarkeit/Nachvollziehbarkeit ist eine Dokumentation hilfreich. Mit der Zeit können Details in Vergessenheit geraten, daher ist es empfehlenswert, die Dokumentation der Daten arbeitsbegleitend zu betreiben. read less
+
+
+Zu den grundlegenden Inhalten einer Dokumentation gehören:
+
+* Beschreibung des Forschungsvorhabens
+* Projektziele
+* Hypothesen
+* Informationen zur Erhebung der Daten (Methoden, Einheiten, Zeiträume, Orte, verwendete Instrumente und Software)
+* Maßnahmen zur Datenbereinigung
+* Struktur der Daten und deren Beziehungen zueinander
+* Erläuterung von Variablen, Labels und Codes
+* Unterschiede zwischen verschiedenen Versionen
+* Informationen zum Zugang und Nutzungsbedingungen
+
+~~Was sind Metadaten?~~
+
+Metadaten sind strukturierte Daten, die Informationen über andere Daten beinhalten – „Daten über Daten“. Sie werden entweder unabhängig oder zusammen mit den Daten, die sie beschreiben, gespeichert. Man unterscheidet zwischen inhaltlichen und technischen Metadaten. Sie bilden eine spezifische Untermenge der Dokumentationsangaben und dienen in erster Linie der Auffindbarkeit der Daten, unter anderem auch in bibliothekarischen Nachweissystemen. Damit sie auch maschinenlesbar sind, zum Beispiel im Semantic Web, werden sie häufig im XML-Format gespeichert.
+
+~~Metadatenstandards~~
+
+Um die Daten besser auffindbar zu machen sowie um Interoperabilität zu gewährleisten, ist eine Standardisierung der Metadatenvokabulare notwendig. Dies gewährleistet die Verknüpfung der Metadaten. Standards ermöglichen darüber hinaus eine inhaltlich und strukturell gleichförmige Beschreibung von ähnlichen Datensätzen.
+
+Metadatenstandards beinhalten eine festgelegte Auswahl an Informationen, die notwendig sind, um diese Daten auffinden und identifizieren zu können. Eine Nachnutzbarkeit der Daten ist damit nicht zwangsläufig gewährleistet (siehe im Vergleich Dokumentation). Zu den bekanntesten bibliographischen fachübergreifenden Metadatenstandards gehören: Dublin Core, DataCite Metadata Schema und MARC21.
+
+~~Fachspezifische Metadatenstandards~~
+
+Da jede Fachcommunity eigene Anforderungen hat, werden auch unterschiedliche, disziplinspezifische Metadatenstandards entwickelt. So wird zum Beispiel in den Sozial- und Wirtschaftswissenschaften der Data Documentation Initiative (DDI) Standard häufig genutzt, während in den Naturwissenschaften das ICAT Schema oder der Crystallographic Information Framework genutzt werden.
+
+Eine Übersicht über die fachspezifischen Metadatenstandards findet man u. a. in einer Übersicht der Research Data Alliance.
+
+(Biernacka, K., Buchholz, P., Danker, S. A., Dolzycka, D., Engelhardt, C., Helbig, K., Jacob, J., Neumann, J., Odebrecht, C., Petersen, B., Slowig, B., Trautwein-Bruns, U., Wiljes, C. und Wuttke, U. (2021). „Train-the-Trainer Konzept zum Thema Forschungsdatenmanagement“ Version 4.0., Berlin, DOI: https://doi.org/10.5281/zenodo.5773203, Creative Commons Attribution 4.0 International)
+
+!?[youtube](https://youtu.be/1eCMRhbi60U)
+
+**Dauer:** 7:00 min
+
+**Inhalt:** "Forschungsdaten und ihre Metadaten" ist ein Lehrvideo zum Forschungsdatenmanagement. Das Video erklärt kurz, was Metadaten sind und wo diese im Forschungsdatenlebenszyklus auftreten.
+
+(Schmitz, D., Hausen, D., Trautwein-Bruns, U. (2018). „Forschungsdaten und ihre Metadaten“ RWTH Aachen University, DOI: 10.18154/RWTH-2018-231101).
+
+**Licence:** [Creative Commons-Lizenz mit Quellenangabe (Wiederverwendung erlaubt)](https://www.youtube.com/t/creative_commons)
+
+**Transcript:**<!-- style="color: black; font-size: 20px;" -->
+
+
+
+In diesem Beitrag aus unserer Reihe zum Forschungsdatenmanagement geht es um **Forschungsdaten und ihre Metadaten**. Dieses Video erklärt, was Metadaten sind und wo Metadaten im Forschungsdatenlebenszyklus auftreten.
+
+Wir gehen noch mal zurück auf das fiktive Beispiel zur Eichhörnchenforschung. Luise Leader hatte ein erfolgreiches Projekt zur Populationsdynamik von Eichhörnchen. Sie hat ihre theoretischen Modelle mit konkreten Datenerhebungen in Deutschland durch Frank Forscher und Großbritannien durch Rachel Research abgeglichen. Wenn sie an das Projekt zurückdenkt, fallen ihr allerdings auch ein paar Dinge ein, die nicht optimal gelaufen sind. Insbesondere hat sie keine Vorgaben zu den Datenerhebungen von Frank Forscher und Rachel Research gemacht.
+
+Sie hat es den beiden überlassen, wie sie die Daten sammeln und dokumentieren. Frank Forscher und Rachel Research haben deswegen unterschiedliche Ansätze gewählt. Sie haben die Daten unterschiedlich strukturiert, sie haben unterschiedliche Sprachen verwendet und sie haben unterschiedliche Kennzeichnungen, zum Beispiel für die Farbe, gewählt: "b" einmal für "black" und einmal für "braun". Das hat dazu geführt, dass Luise Leader sehr oft nachfragen musste, bis sie die Daten richtig verstanden hat und miteinander in Beziehung setzen konnte. Erst danach war die Integration in ihre theoretischen Modelle möglich.
+
+Sie überlegt, wie sie das besser machen könnte. **Sinnvoll ist es zum Beispiel, jede Messreihe mit einer eindeutigen ID zu versehen, die dann von überall referenziert werden kann.** Wichtig ist es auch, das Erfassungsdatum genau zu dokumentieren, denn so können die Daten später mit anderen Informationen, zum Beispiel Wetterinformationen, in Beziehung gesetzt werden.
+
+Auch ist es leicht möglich, diese Daten über bestimmte Zeiträume zu aggregieren und zusammenzuzählen, um zum Beispiel zu einer monatlichen Zahl von Eichhörnchen zu kommen. Für die Dokumentation der Farben ist es wichtig, Vorgaben zum Vokabular zu machen, damit "b" für "black" steht und nicht missverstanden werden kann als "braun". Statt die Daten direkt nach bestimmten Regionen zu erheben, ist es sinnvoller, den genauen Ort der Beobachtungsstelle zu notieren, zum Beispiel durch die ID der entsprechenden Beobachtungsstelle. In einer zusätzlichen Tabelle können dann viel mehr Metadaten zu den einzelnen Beobachtungsstellen hinterlegt werden: der genaue Breiten- und Längengrad, die GPS-Koordinaten oder eben auch die Zuordnung zu Ländern und Regionen. Daraus lassen sich nachher ganz leicht die entsprechenden aggregierten Daten für Regionen oder Bereiche bilden.
+
+Aber Luise stellt fest, dass es nicht reicht, nur allein die Vorgaben zu diesen Daten zu machen. Frank Forscher und Rachel Research müssen auch das gleiche Verständnis haben. Trivialerweise sind die Spaltenüberschriften geeignete Metadaten, die schon mal einen ersten Hinweis darauf geben, welche Information wie in welcher Zelle einzutragen ist. Aber auch das ist noch nicht ausreichend. Was genau ist unter der ID zu verstehen? Solche Informationen können in einem Metadatenschema hinterlegt werden, und dort steht dann zum Beispiel, dass die ID eine laufende Nummer ist oder dass das **Datum nach ISO 8601** erfasst werden muss, das heißt Jahr, Monat, Tag ergänzt um die Uhrzeit mit Stunden, Minuten und Sekunden. Erst dann werden die Eintragungen von verschiedenen Personen unmittelbar miteinander vergleichbar. Luise überlegt auch, ob sie wirklich alle relevanten Metadaten bereits erfasst hat.
+
+Sie fragt bei ihren Kollegen in der Community nach und sie stellt fest, dass die von ihr verwendeten Beobachtungsstellen zugleich zum Beispiel auch die Größe der Eichhörnchen messen können. Und auch hier ist es wichtig, Angaben zu machen, zum Beispiel, dass die Messung der Größe in Zentimetern erfolgt.
+
+Luise Leader wurde von Remy Reuse kontaktiert, der die Daten aus ihrer Erhebung in seinem neuen EU-Projekt nachnutzen soll. Er hatte viele Fragen zu den Kontexten, welche Informationen wann, wo, wie erfasst wurden, welche Beobachtungsstellen verwendet wurden. Nicht alle Informationen hatte Luise direkt greifbar. Dies hat ihr noch einmal deutlich gemacht, **dass es wichtig ist, sich Gedanken darüber zu machen, welche Metadaten zu welchem Zeitpunkt relevant sind**. Bei der Planung waren für sie vor allem ihre Schlüsselattribute interessant: die Farbe der Eichhörnchen und die in einer bestimmten Region über einen bestimmten Zeitraum auftreten.
+
+Trotzdem lohnt es sich, im Rahmen der Erfassung allgemeine Datenschema zu verwenden, die vielleicht noch mehr Informationen, wie zum Beispiel die Größe der Eichhörnchen, umfassen und die vereinbarte Vokabulare verwenden, zum Beispiel für die Kategorisierung der Eichhörnchen in verschiedene Farben. Auch die Kontextinformationen, zum Beispiel zu den Beobachtungsstellen, sind hier sinnvolle Metadaten. Bei der Analyse entstehen neue Metadaten. Wie können die Daten ausgewählt werden, welche Datenqualität wurde berücksichtigt, wie wurden zum Beispiel Sensorfehler erkannt und schließlich auch wie können die Daten aggregiert werden?
+
+Auch über das aktive Arbeiten mit den Daten hinaus entstehen Metadaten im Forschungsdatenlebenszyklus, zum Beispiel bei der Archivierung. Hier wird relevant, mit welchen Dateiformaten gearbeitet wird. Auch Archivierungsort und -datum sind von Interesse, sowie die notwendigen Tools, mit denen gearbeitet werden muss, um die Daten nachzunutzen.
+
+Im Rahmen der Veröffentlichung ist natürlich die **DOI** ein wichtiges Metadatum. Darüber hinaus ist von Interesse, in welchem Repositorium die Daten veröffentlicht werden und dass sie die Provenienz, die Herkunftsinformationen, beinhalten. Für andere Forschende ist es auch sehr interessant zu wissen, welche Daten in welche Publikationen eingegangen sind. Das ist durch das Zitieren der **DOI** leicht möglich. Und schließlich sind **Lizenzinformationen** für potenzielle Nachnutzer von Interesse: Wie kann ich die Daten in meinem eigenen Projekt nachnutzen? Der [Datenmanagementplan (DMP)](#Datenmanagementplan-%28DMP%29) ist ein möglicher Ort, wo die gesamte Dokumentation zum Daten- und Metadatenmanagement stattfinden kann.
+
+Hier könnte Remy Reuse die von Luise Leader getroffenen Entscheidungen, zum Beispiel zu den Metadatenstandards oder zu den Absprachen der Vokabulare, einsehen und nachvollziehen, auch ohne direkten Kontakt mit ihr zu haben.
+
+Für Luise ist klar, dass es sich lohnt in die Generierung robuster Metadaten zu investieren; nicht allein für die Nachnutzung durch andere Personen, auch in ihrem eigenen Projekt hätte ihr das viel Arbeit erspart. Wenn Sie Fragen haben zu Metadaten und Unterstützung wünschen, kontaktieren Sie das Team Forschungsdaten über das ServiceDesk.
+
+**Quiz**<!-- style="color: black; font-size: 20px;" -->
+
+Was sind Metadaten?
+
+    [( )] Aussagen über die Daten der Reviewerin bzw. des Reviewers.
+    [( )] Eine metaphysisch begründete Typologie von Daten.
+    [(X)] Unabhängige Daten, die strukturierte Informatione über andere Daten bzw. Ressourcen und deren Merkmale enthalten.
+
+Warum sind Metadaten wichtig?
+
+    [(X)] Weil sie die Nachnutzbarkeit und Zugänglichkeit von wissenschaftlichen Ergebnissen verbessern.
+    [( )] Weil sie den/die Forschende*n beschreiben und er/sie dadurch eindeutig identifizierbar ist.
+    [( )] Weil sie eine wissenschaftliche Veröffentlichung bewerten.
+
+Welche Standards gibt es für Metadaten?
+
+    [(X)] Allgemeine Standards sind z.B. der Dublin Core Standard oder Data Cite, aber es gibt auch disziplinspezifische Standards.
+    [( )] Es gibt keine Standards, jede*r Forschende muss sein/ihr eigenes "Regelwerk" entwickeln.
+    [( )] Der Dublin Core Standard und Data Cite sind die einzigen Standards, die von allen Wissenschaftlern in allen Disziplinen verwendet werden sollten.
+
+**Weiterführende Informationen**<!-- style="color: black; font-size: 20px;" -->
+
+
+**Beschreiben und Dokumentieren:**
+
+Eine ausführliche Zusammenstellung von Informationen zum Thema Datendokumentation, Metadaten und Metadatenstandards und bibliographische Metadaten.
+
+https://www.forschungsdaten.info/themen/beschreiben-und-dokumentieren/
+
+**Quiz zu Beschreiben und Dokumentieren:**
+
+Eine kurze Wissensüberprüfung zum Thema Datendokumentation, Metadaten und Metadatenstandards mit 7 Fragen.
+
+https://www.forschungsdaten.info/praxis-kompakt/forschungsdaten-quizfragen/beschreiben-und-dokumentieren/
+
+**Zitationshinweis**<!-- style="color: black; font-size: 20px;" -->
+
+FAIR Data Austria (2021). „Metadaten“. In: Offene Bildungsressourcen Forschungsdatenmanagement. (https://fair-office.at/index.php/metadaten/).
+
+Lizenz: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de) soweit nicht anders angegeben.
+
+
 ## Offene Wissenschaft
 
 ## Persistente Identifikatoren (PID)
