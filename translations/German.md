@@ -638,6 +638,74 @@ Lizenz: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de) soweit 
 
 ## Offene Wissenschaft
 
+
+Geläufiger als der Begriff „Offene Wissenschaft“ ist auch im deutschen Sprachgebrauch der Begriff „Open Science“. Open Science bietet neue Möglichkeiten im Umgang mit wissenschaftlichen Erkenntnissen und stellt eine Art Kulturwandel dar. Durch Transparenz und Offenheit erhöht Open Science die Nutzung und Weiterentwicklung von Wissen sowie die Möglichkeiten zur Zusammenarbeit und die Glaubwürdigkeit der Wissenschaft. Im Fokus stehen dabei der kostenlose Zugang zu wissenschaftlichen Prozessen und Erkenntnissen für alle über das Internet und das Recht auf Nachnutzung dieser Inhalte. Nutznießer dieses Konzeptes sind neben der Wissenschaft auch die Gesellschaft und die Wirtschaft.
+
+Realisiert wird die Offene Wissenschaft durch verschiedene Strategien und Verfahren, wie zum Beispiel den offenen Zugang zu wissenschaftlichen Publikationen (Open Access),  Computerprogrammen (Open-Source-Software), Daten (Open Data) und freien Bildungsmaterialien (Open Educational Resources).
+
+!?[youtube](https://youtu.be/57dTNpXomPs)
+
+**Dauer:** 2:24 min
+
+**Inhalt:** Im Video wird kurz und knapp erklärt, was Offene Wissenschaft ist und welchen Nutzen sie sowohl für Forschende als auch für Forschungseinrichtungen mit sich bringt.
+
+Konzept & Skript: Elisabeth Mandl und Denis Schröder, Zusätzliche Illustrationen: riesenspatz Infoillustration, Sprecher: Florian Maerlender
+
+**Licence:** Dieses Video wurde mithilfe der Software mySimpleshow erstellt und unterliegt der freien Lizenz [C BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.de).
+
+**Transcript:**<!-- style="color: black; font-size: 20px;" -->
+
+
+
+Was ist offene Wissenschaft?
+
+Steffi arbeitet in einer wissenschaftlichen Einrichtung an einem Forschungsprojekt. Dafür benötigt sie Zugang zu einer Menge **bereits existierendem Wissen** zu ihrem Thema. Zum Beispiel besorgt sie sich regelmäßig aktuelle Forschungsliteratur aus verschiedenen Archiven in aller Welt.
+
+In der Regel ist dieses Wissen jedoch nicht frei zugänglich. Die Einrichtung von Steffi muss Lizenzgebühren an Verlage zahlen, die die wissenschaftlichen Artikel bereitstellen. Das ist ärgerlich, weil Steffis Einrichtung mit öffentlichen Geldern finanziert ist und auch die wissenschaftlichen Artikel häufig **öffentlich finanziert** wurden.
+
+Andere Forscherinnen und Forscher aus aller Welt arbeiten an ähnlichen Themen wie Steffi, nur wissen sie oft nichts voneinander. Wäre es nicht toll, wenn Wissenschaft und Forschung so **transparent und offen** wären, dass Steffi immer und überall frei auf die Arbeit anderer zugreifen und sich offen mit ihnen austauschen könnte?
+
+Genau das ist das Ziel offener Wissenschaft. Sie möchte den wissenschaftlichen Prozess von der ersten Hypothese über die Datenerhebung bis zur Veröffentlichung der Ergebnisse für andere offen **zugänglich, nachvollziehbar und** weiterhin **nutzbar** machen.
+
+In einer offenen Wissenschaft machen Wissenschaftlerinnen und Wissenschaftler wie Steffi ihren Forschungsprozess transparent. Sie stellen ihre Forschungsdaten und -ergebnisse bei der Veröffentlichung unter eine **freie Lizenz**. Steffi kann so einfach auf die Daten und Ergebnisse anderer zugreifen und damit weiterarbeiten. Und die öffentlichen Gelder von Steffis wissenschaftlicher Einrichtung kommen ihrer eigentlichen Forschung zugute.
+
+Für Steffi ist es außerdem viel leichter, sich mit Wissenschaftlerinnen und Wissenschaftlern zu **vernetzen**, die an ähnlichen Themen arbeiten. Sie können ihre Ergebnisse, ihre Erfolge und Misserfolge offen miteinander **teilen und voneinander lernen**. Es wird für sie damit auch einfacher, ihre Forschung aufeinander aufzubauen. Cool!
+
+Wenn auch du deine Forschung offen gestalten und offene Wissenschaft in der Praxis ausprobieren willst! Schau dir das Fellowprogramm freies Wissen an!
+
+
+Welcher der folgenden Begriffe ist ein gängiges Synonym des Begriffs "offene Wissenschaft"?
+
+    [( )] Transparent Research (TR)
+    [( )] Reusable Digital Objects (RDO)
+    [(X)] Open Science (OS)
+
+Welche Aussage ist richtig?
+
+    [( )] Open Science klingt gut, ist aber unfair, weil Forschende mit geringen finanziellen Mitteln sich den Zugang zu offenen Forschungsergebnissen nicht leisten können.
+    [(X)] Open Science fördert die Transparenz der Wissenschaft und die kostenlose Nachnutzung vorhandener Forschungsergebnisse durch alle.
+    [( )] Open Science sorgt für eine bessere Vernetzung der Forschenden innerhalb der EU. Ein weltweiter Austausch ist derzeit nicht möglich.
+
+Welche Argumente sprechen für Open Data?
+
+    [( )] Generell werden offene Daten keinem Reviewprozess unterzogen, so dass diese Art der Datenpublikation stets deutlich schneller ist.
+    [( )] Geringerer Kosten- und Zeitaufwand für die Aufbereitung der Daten als bei einer Closed Access Publikation.
+    [(X)] Zugänglichmachung von wissenschaftlichen Primär- und Metadaten, Quellentexten und digitalen Reproduktionen.
+
+**Weiterführende Informationen**<!-- style="color: black; font-size: 20px;" -->
+
+* „Open science is a policy priority for the European Commission and the standard method of working under its research and innovation funding as it improves the quality, efficiency and responsiveness of research.“ Dieses Statement und weitere Informationen über den Standpunkt der EU zu Open Science finden Sie auf der [Open-Science-Plattform der EU](https://ec.europa.eu/info/research-and-innovation/strategy/strategy-2020-2024/our-digital-future/open-science_en).
+* Der FWF hat seit 2019 eine [Open Access Policy](https://www.fwf.ac.at/de/forschungsfoerderung/open-access-policy), die sich sowohl auf referierte Publikationen als auch auf Forschungsdaten bezieht.
+* Diese Graphik zeigt die verschiedenen Begriffe, die hinter Open Science stecken. Knoth, Petr; Pontika, Nancy (2015): Open Science Taxonomy. figshare. Figure. https://doi.org/10.6084/m9.figshare.1508606.v3
+* Seit Februar 2022 gibt es in Österreich eine [nationale Open Science Policy](https://www.bmbwf.gv.at/Themen/HS-Uni/Hochschulgovernance/Leitthemen/Digitalisierung/Open-Science/Open-Science-Policy-Austria.html).
+
+**Zitationshinweis**<!-- style="color: black; font-size: 20px;" -->
+
+FAIR Data Austria (2021). „Offene Wissenschaften“. In: Offene Bildungsressourcen Forschungsdatenmanagement. ((https://fair-office.at/index.php/offene-wissenschaft/)).
+
+Lizenz: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de) soweit nicht anders angegeben.
+
+
 ## Persistente Identifikatoren (PID)
 
 ## Publikation von Daten
