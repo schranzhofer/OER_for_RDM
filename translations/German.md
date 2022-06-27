@@ -376,7 +376,7 @@ Wie können wir sicherstellen, dass unsere Daten nachvollziehbar sind?
 
     [(X)] Durch die Verwendung von Formaten, Begriffen oder Vokabularen, auf die sich eine Gemeinschaft geeinigt hat.
     [( )] Durch Hinzufügen eines speziellen Glossars, das unsere Daten erklärt.
-    [( )] Unsere Daten sollten für potenzielle Nachnutzer*innen nicht verständlich sein.
+    [( )] Unsere Daten sollten für potenzielle Nachnutzer\*innen nicht verständlich sein.
 
 Welche der folgenden Szenarien entsprechen den FAIR-Kriterien?
 
@@ -761,7 +761,7 @@ Wozu werden PIDs vergeben?
 
     [(X)] Damit (digitale) Ressourcen wie z.B. Forschungsdaten dauerhaft auffindbar, abrufbar und zitierbar sind.
     [( )] Damit mehr Verwaltungsaufwand entsteht.
-    [( )] Damit nur berechtigte Nutzer*innen auf die Daten zugreifen können.
+    [( )] Damit nur berechtigte Nutzer\*innen auf die Daten zugreifen können.
 
 Wie kann ich einen Datensatz finden, der mit einem DOI eindeutig gekennzeichnet ist?
 
@@ -804,3 +804,139 @@ Lizenz: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de) soweit 
 
 
 ## Publikation von Daten
+
+
+~~Repositorien~~
+
+Repositorien sind Datenbanken, in denen digitale Objekte archiviert, dokumentiert und publiziert werden können. Es sind Speicherorte, die eine zeitlich und räumlich vom wissenschaftlichen Artikel selbst unabhängige Veröffentlichung und Archivierung von Forschungsdaten ermöglichen.
+
+Je nach Repositorium können Daten, Datensätze, Experiment- und Auswertungsbeschreibungen, audiovisuelle Objekte wie Bild- und Videodateien, Modelle von Simulationen oder auch Software veröffentlicht werden. In manchen Repositorien können ganze Forschungsdatensätze in ihrer komplexen Form als Einheit (z. B. „Collection“ bei [PANGAEA](https://pangaea.de/)) abgelegt werden.
+
+
+~~Arten von Repositorien~~
+
+Repositorien können nach verschiedenen Gesichtspunkten eingeteilt werden. Am häufigsten werden sie danach unterschieden, ob sie fachspezifisch, disziplinübergreifend/generisch oder institutionell sind.
+
+Disziplinspezifische oder auch Fachrepositorien bieten den Vorteil der Sichtbarkeit in der eigenen Forschungsgemeinschaft und stellen in einigen Disziplinen bereits etablierte Einrichtungen dar. Jedoch existieren noch nicht für alle Disziplinen geeignete Repositorien. Diese Repositorien bieten meist fachspezifisches Wissen und Know-how auf dem Gebiet des Forschungsdatenmanagements, z. B. hinsichtlich der Kuratierung der Daten oder besondere Services (z. B. Visualisierungstools) an, aber auch spezifische Werkzeuge für die Analyse, Recherche und Visualisierung.
+
+Beispiele für Fachrepositorien:
+
+* ARCHE (https://arche.acdh.oeaw.ac.at/) ein Ressourcenzentrum für die geisteswissenschaftliche Forschung in Österreich
+* AUSSDA (https://aussda.at/) das österreichische Datenarchiv für Sozialwissenschaften
+* GenBank (http://www.ncbi.nlm.nih.gov/genbank) für Genforschungsdaten
+* Integrated Ocean Observing System (https://ioos.noaa.gov) für Daten der marinen Umweltforschung
+* NoMaD (http://nomad-repository.eu) für Materialdaten aus der Physik
+* PANGAEA (https://pangaea.de) für geowissenschaftliche Daten
+* TextGrid Repository (https://textgridrep.org/) für die Geisteswissenschaften (XML/TEI-basiert)
+
+Bei interdisziplinärer Forschung kann die Zuordnung der entstandenen Daten zu einem Fachgebiet schwierig sein. Hier bieten disziplinübergreifende Repositorien Abhilfe. Sie akzeptieren in der Regel sehr verschiedenartige Datenarten und bieten gute Suchfunktionen. Meist bieten sie keine Redaktion der Daten oder sonstige Formen der Qualitätskontrolle an.
+
+Beispiele für fachübergreifende Repositorien:
+
+* ZENODO (https://zenodo.org) Digitale Daten aus allen Forschungsgebieten, Produkt des EU OpenAIRE-Projekts
+* DRYAD (http://datadryad.org) Schwerpunkt: Lebenswissenschaften
+
+Zunehmend entstehen auch institutionelle Repositorien. Derzeit bieten sie eine Alternative, wenn kein geeignetes Fachrepositorium vorhanden ist. Gegenüber den generischen Repositorien haben sie den Vorteil, dass die Kontrolle über die Daten im Haus bleibt und gleichzeitig die Sichtbarkeit der eigenen Institution erhöht wird. Auch rechtliche Rahmenbedingungen für den Umgang mit Daten können für eine Publikation im eigenen Repositorium sprechen. Institutionelle Repositorien sind in der Regel für alle eigenen Fachgebiete offen und kostenfrei nutzbar.
+
+Beispiele für institutionelle Repositorien in Österreich:
+
+* TU Wien (https://researchdata.tuwien.ac.at/)
+* Universität Wien (https://phaidra.univie.ac.at/)
+* TU Graz (https://repository.tugraz.at/)
+* IST Austria (https://research-explorer.app.ist.ac.at/)
+* FH St. Pölten (https://phaidra.fhstp.ac.at/)
+
+~~Auswahl eines Repositoriums~~
+
+Um ein Repositorium zu finden, kann das disziplinübergreifende Verzeichnis re3data (https://www.re3data.org) herangezogen werden. Aus einem DFG-geförderten Projekt hervorgegangen, umfasst es derzeit über 2760 Einträge zu deutschen und internationalen Repositorien für Forschungsdaten (Stand: 19.11.2021). Man kann hier nach Disziplinen, Art der Daten oder Land auswählen. Es ist auch möglich, sehr fein beispielsweise nach Repositorien, bei denen der Daten-Upload kostenpflichtig ist oder bei denen die Datennutzung eingeschränkt ist, zu filtern.
+
+Bei der Auswahl eines Repositoriums für die Datenpublikation wird die folgende Rangfolge empfohlen:
+
+1. Ein externes fachspezifisches Repositorium, das in der Disziplin anerkannt ist
+2. Institutionelles Repositorium
+3. Kostenfreies disziplinübergreifendes Repositorium
+
+Kriterien für die Auswahl eines geeigneten Repositoriums:
+
+1. Zertifizierung, z. B. [Core Trust Seal](https://www.coretrustseal.org/)
+2. (Automatisierte) Vergabe von persistenten Identifikatoren, z. B. DOI, handle
+3. Zugang zu Daten: offen, eingeschränkt oder unzugänglich
+4. Klare Nutzungsbedingungen für Datenautor\*innen sowie Nutzer\*innen, z. B. Entgelte, Embargofristen
+
+Auch die Möglichkeiten der Lizenzwahl können die Wahl eines geeigneten Repositoriums beeinflussen.
+
+(Adaptiert von: Biernacka, K., Buchholz, P., Danker, S. A., Dolzycka, D., Engelhardt, C., Helbig, K., Jacob, J., Neumann, J., Odebrecht, C., Petersen, B., Slowig, B., Trautwein-Bruns, U., Wiljes, C. und Wuttke, U. (2021). „Train-the-Trainer Konzept zum Thema Forschungsdatenmanagement“ Version 4.0., Berlin, DOI: https://doi.org/10.5281/zenodo.5773203, Creative Commons Attribution 4.0 International)
+
+
+!?[youtube](https://youtu.be/GuIQO3cFIuw)
+
+**Dauer:** 6:23 min
+
+**Inhalt:** "Forschungsdaten zu Publikationen" ist ein Lehrvideo in dem anhand eines fiktiven Beispiels gezeigt wird, wie mit Forschungsdaten, die Grundlage einer Publikation sind, verfahren werden kann. Es wird erklärt wie solche Daten bewusst ausgewählt, nachvollziehbar strukturiert und schließlich auf einem Repositorium öffentlich zur Nachnutzung bereitgestellt werden können.
+
+
+(Schmitz,D., Hausen, D., Trautwein-Bruns, U. (2018). „Forschungsdaten zu Publikationen“ RWTH Aachen University, DOI: 10.18154/RWTH-2018-224187)
+
+**Licence:** [Creative Commons-Lizenz mit Quellenangabe (Wiederverwendung erlaubt)](https://www.youtube.com/t/creative_commons)
+
+
+**Transcript:**<!-- style="color: black; font-size: 20px;" -->
+
+
+
+In diesem Beitrag aus der Reihe zu Forschungsdatenmanagement geht es um Forschungsdaten zu Publikationen. Louise Leader denkt an ihr Projekt zurück: Die Populationsdynamik von Eichhörnchen. Es war ein tolles Projekt und sie hat zusammen mit Frank und Rachel daraus hervorragende Veröffentlichungen gemacht, die häufig zitiert wurden. Louise Leader ist überrascht, immer wieder wird sie noch auf ihre Forschung und ihre Publikationen angesprochen. Noch weit nach Projektende wollen andere Forscher auf ihre Daten zugreifen. Natürlich hat sie die Daten archiviert. Auch Frank und Rachel haben das getan, aber es kostet sie doch immer wieder ordentlich Aufwand, um die Daten herauszusuchen, sich neu einzufinden und die Daten so bereitstellen zu können, wie der nächste sie benötigt. So hat sie zum Beispiel ein langes Gespräch mit Remy Reuse gehabt, der die Daten in seinem Projekt zur Evaluation von Eichhörnchen in ganz Europa nachnutzen möchte.
+
+Was könnte sie besser machen? Was sollte sie mit den Daten tun, die Grundlage einer Publikation sind? Den Regeln der guten wissenschaftlichen Praxis hat sie entsprochen. Die Daten sind archiviert, aber bei dem, was sie an Aufwand jetzt hinein stecken muss, würde sie gerne eine bessere Lösung finden. Eigentlich wünscht sich Louise drei Dinge: Sie möchte, dass sie die Daten direkt zu den Publikationen findet. Das heißt, dass sie nicht lange in alten Archivordnern rumsucht, sondern wirklich direkt von der Publikation zu den Daten kommt. Außerdem sollen alle Informationen, die sie braucht um die Daten zu verstehen, direkt bei den Daten sein, damit sie für sie und für andere leicht verständlich sind. Und eigentlich wäre sie froh, wenn nicht sie immer die Daten bereitstellen müsste, sondern, dass die Nachnutzer die Daten selber zugreifen können.
+
+~~In diesem Kontext fällt ihr das Stichwort [FAIR](#FAIR-Prinzipien) ein:~~ Sie erinnert sich daran, dass viele Kollegen gerade darüber sprechen, dass ihre Daten **FAIR** werden. Dabei geht es eigentlich um dasselbe: Die Anforderungen, die sie hat, da kommt nur noch ein Aspekt hinzu, denn neben dem Auffinden, also Daten findable zu machen, geht es bei FAIR darum, dass die Daten zugreifbar sind, so wie sie sich das vorgestellt hat, accessible; aber auch, dass die Daten interoperabel sind, also, dass sie mit den Daten von anderen gut zusammenpassen. Und eben schließlich, dass sie nachnutzbar sind, reusable. Louise beschließt, dass auch ihre Daten in Zukunft **FAIR** sein sollen, sie weiß aber auch, dass das nicht einfach ist. Wichtig sind ihr kleine Schritte: Zunächst einmal geht es ihr darum, die Daten, die zu einer Publikation gehören, damit zu verknüpfen. Sie nimmt sich deshalb vor, in Zukunft, wenn sie Daten zu einer Publikation hat, diese bewusst auszuwählen, dass sie wirklich genau darauf sieht, welche Daten sind in diese Publikation eingeflossen, und daraus eine Zusammenstellung zu machen. Überflüssige Versionen, andere Fehlversuche, all das ist in der Zusammenstellung nicht enthalten.
+
+Wichtig ist aber, dass die Zusammenstellung verständlich ist. Sowohl was die Struktur, als auch, was die Benennung angeht und, dass die Kontextinformationen, die wichtig sind, um die Daten zu verstehen, mitarchiviert werden - möglichst innerhalb der Struktur. Für die Archivierung setzt sie auf einen professionellen Archivdienst, zum Beispiel auf das Archiv ihrer Einrichtung, das ihr die zehn Jahre gute wissenschaftliche Praxis garantiert. Und schließlich sollen die archivierten Daten auf jeden Fall einen **Persistent Identifier** bekommen, denn damit kann sie die Daten zu ihrer Publikation verknüpfen. Zwar war bisher die Publikation von Forschungsdaten für Louise kein Thema, aber mit Rückblick auf ihr Projekt, wo sie die Daten nicht mehr selber nachnutzen möchte, aber viel Aufwand damit hat, die Daten anderen bereit zu stellen, sieht es nach einer sinnvollen Option aus. Was muss sie tun, um ihre Daten zu veröffentlichen? Zunächst muss sie ein geeignetes Repositorium finden, das, auf dem ihre Daten dann öffentlich zugänglich sind. Auch hier muss es natürlich einen [Persistent Identifier (PID)](#Persistente-Identifikatoren-%28PID%29) geben, zum Beispiel, typischerweise eine [DOI](#Persistente-Identifikatoren-%28PID%29). Darüber sind ihre Daten eindeutig zitierbar. Bei einer Veröffentlichung von Daten ist es analog wie bei der Archivierung.
+
+Die Dokumentation muss enthalten sein und zwar eine nachvollziehbare, verständliche Dokumentation, erst recht wenn die Daten publiziert werden und ohne direkten Kontakt zum Erzeuger der Daten nachgenutzt werden sollen. Außerdem ist zu regeln, ob es Einschränkungen gibt, wie die Daten von anderen wiederverwendet werden können. Zum Beispiel in Form von Lizenzen. Bei den Daten von Louise handelt es sich um Daten aus einem öffentlich geförderten Projekt, da will sie möglichst offene Lizenzen verwenden. Wie kann so eine Verknüpfung aussehen? Hier ist ein Beispiel für die Verknüpfung einer Publikation mit veröffentlichten Forschungsdaten.
+
+Zur Dissertation sind hier verschiedene Daten entstanden, die direkt auf der Detailseite verlinkt werden und zu einem eigenen Eintrag führen, über den die Daten direkt heruntergeladen werden können und von anderen genutzt werden können. Auch wenn die Daten nicht publiziert werden können, ist es möglich, eine Verknüpfung zu den archivierten Daten zu machen. Zu diesem Journal-Artikel gibt es innerhalb der Referenzen einen Verweis auf ein Archiv. Explizit ist der Hinweis hier, dass die Daten primär für die interne Nutzung sind. Das heißt Zugriff auf die Daten haben an dieser Stelle nur die Dateneigner, aber jemand von extern erhält zumindest ein Kontaktformular, mit dem er mit dem Erzeuger in Kontakt treten kann und nachfragen kann, ob der Zugriff auf die Daten gegebenenfalls möglich ist. Wenn auch Sie Fragen haben zu der Verknüpfung von Daten und Publikationen, zur Datenarchivierung oder Daten-Publikationen, dann kontaktieren Sie uns einfach über das Service-Desk.
+
+
+**Quiz**<!-- style="color: black; font-size: 20px;" -->
+
+
+Warum beschäftigt sich Louise Leader noch lange nach Abschluss des Forschungsprojekts mit ihren Forschungsdaten?
+
+    [(X)] Andere Forscher\*innen wollen auf ihre Daten zugreifen und sie für weitere Forschung nachnutzen.
+    [( )] Weil sie vergessen hat, sie zu archivieren.
+    [( )] Sie will die Daten nochmals überprüfen.
+    [( )] Sie möchte sie für die Nachnutzung anderer Forscher\*innen durch entsprechende Lizenzen sperren.
+
+Was wünscht sich Louise von einer Lösung für die Nachnutzung ihrer Forschungsdaten?
+
+    [(X)] Die Publikationen sollen direkt mit den relevanten Daten verknüpft sein, alle Metadaten sollen direkt bei den Daten sein, und der Zugriff soll eigenständig durch andere Forscher\*innen möglich sein.
+    [( )] Niemand soll ihre Daten nachnutzen können, andere Forscher\*innen müssen eigene Erhebungen machen.
+    [( )] Die Daten sollen bei einem lokalen Server in ihrem privaten Umfeld gespeichert werden, sie will die Kontrolle über die Datenbereitstellung behalten.
+
+Was bedeutet FAIR im Zusammenhang mit Forschungsdaten?
+
+    [(X)] Daten sollen findable (auffindbar), accessible (zugänglich), interoperable (interoperabel) und reusable (nachnutzbar) sein.
+    [( )] Dabei geht es um die Anwendung der Spieltheorie im Wissenschaftsbetrieb, im Fall eines Konflikts um Datennutzung wird ein/e FAIR-mittler\*in (Schiedsrichter\*in) angerufen.
+    [( )] FAIR steht für eine Abkürzung: Forschungsdaten sollen fundiert, ambitioniert, integer und realitätsnah sein.
+
+Bei der Archivierung von Forschungsdaten ist es wichtig, darauf zu achten, dass…
+
+    [(X)] …die Daten bewusst ausgewählt und verständlich benannt sind sowie einen Persistent Identifier haben. (richtig)
+    [( )] … die Daten ausschließlich mit proprietärer Software nutzbar sind.
+    [( )] … Daten und Kontextinformationen getrennt voneinander gespeichert werden.
+
+
+**Weiterführende Informationen**<!-- style="color: black; font-size: 20px;" -->
+
+**Repositorien – Daten professionell zur Verfügung stellen:**
+
+Eine ausführliche Erklärung von Repositorien mit Beispielen und weiterführenden Links.
+
+https://www.forschungsdaten.info/themen/veroeffentlichen-und-archivieren/repositorien/  
+
+
+**Zitationshinweis**<!-- style="color: black; font-size: 20px;" -->
+
+FAIR Data Austria (2021). „Publikation von Daten“. In: Offene Bildungsressourcen Forschungsdatenmanagement. (https://fair-office.at/index.php/publikation-von-daten/).
+
+Lizenz: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de) soweit nicht anders angegeben.
