@@ -165,6 +165,8 @@ Das Erstellen eines DMPs zu Beginn eines Projektes fördert somit die bewusste A
 
 **Inhalt:** Dieses Video zeigt Ihnen anhand eines Beispiels aus dem Forschungsalltag wo die Fallstricke beim Umgang mit Daten liegen können und wie Sie mit Hilfe eines sog. Datenmanagementplans (DMP) (ab Minute 03:33) – einem essentiellen Projektmanagement-Tool – effizient die Übersicht über ihre Daten behalten und auch die Zusammenarbeit im Pojekt mit vielen Partnern organisieren können.
 
+**Video Quelle:** Technische Informationsbibliothek (TIB) Hannover, „FDM kurz erklärt: Was ist Forschungsdatenmanagement und wie helfen mir Datenmanagementpläne?“
+
 **Licence:** [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en)
 
 **Transcript:**<!-- style="color: black; font-size: 20px;" -->
