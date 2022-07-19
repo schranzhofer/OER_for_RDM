@@ -135,6 +135,10 @@ The time for submission of the DMP depends on the individual requirements of ins
 
 **Content:** In this knowledge clip we have a look at Data Management Plans. Why should you plan for data management and what is the typical content of a DMP? And when should you submit it?
 
+**Music:** Junca by Blue Dot Sessions (CC BY NC), available at freemusicarchive.org 
+
+**Cite as:** Ghent University Data Stewards (2020). Knowledge clip: Data Management Plans (DMPs). Available at: https://youtu.be/GRNsLTQGjCo
+
 **Licence:** [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en)
 
 **Transcript:**<!-- style="color: black; font-size: 20px;" -->
