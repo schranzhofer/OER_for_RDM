@@ -42,11 +42,13 @@ Dateiformate können beim Speichern aktiv durch Konvertierung geändert werden, 
 
 !?[youtube](https://youtu.be/kxxlQnc8u1I)
 
-**Dauer:** 5:12 min
+**Dauer:** 5:12 Min
 
 **Inhalt:** Dieser kurze Wissensclip erklärt, was Dateiformate sind, warum sie für das Forschungsdatenmanagement wichtig sind und was man sonst dabei beachten sollte. (Video auf Englisch)
 
-**Licence:** [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en)
+Ghent University Data Stewards (2020). Knowledge clip: file formats. Available at: https://youtu.be/kxxlQnc8u1I
+
+**Lizenz:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en)
 
 **Transcript:**<!-- style="color: black; font-size: 20px;" -->
 
@@ -161,13 +163,13 @@ Das Erstellen eines DMPs zu Beginn eines Projektes fördert somit die bewusste A
 
 !?[youtube](https://youtu.be/J97nfCy38Q4)
 
-**Dauer:** 7:54 min
+**Dauer:** 7:54 Min
 
-**Inhalt:** Dieses Video zeigt Ihnen anhand eines Beispiels aus dem Forschungsalltag wo die Fallstricke beim Umgang mit Daten liegen können und wie Sie mit Hilfe eines sog. Datenmanagementplans (DMP) (ab Minute 03:33) – einem essentiellen Projektmanagement-Tool – effizient die Übersicht über ihre Daten behalten und auch die Zusammenarbeit im Pojekt mit vielen Partnern organisieren können.
+**Inhalt:** Dieses Video zeigt Ihnen anhand eines Beispiels aus dem Forschungsalltag, wo die Fallstricke beim Umgang mit Daten liegen können und wie Sie mit Hilfe eines sogenannten Datenmanagementplans (DMP) (ab Minute 03:33) – einem essenziellen Projektmanagement-Tool – effizient die Übersicht über ihre Daten behalten und auch die Zusammenarbeit im Projekt mit vielen Partnern organisieren können.
 
-**Video Quelle:** Technische Informationsbibliothek (TIB) Hannover, „FDM kurz erklärt: Was ist Forschungsdatenmanagement und wie helfen mir Datenmanagementpläne?“
+Technische Informationsbibliothek (TIB) Hannover, „FDM kurz erklärt: Was ist Forschungsdatenmanagement und wie helfen mir Datenmanagementpläne?“; Referentin: Frauke Ziedorn
 
-**Licence:** [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en)
+**Lizenz:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en)
 
 **Transcript:**<!-- style="color: black; font-size: 20px;" -->
 
@@ -251,14 +253,17 @@ FAIRe Daten sind nicht gleichzusetzen mit Open Data. Denn es ist beispielsweise 
 
 !?[youtube](https://youtu.be/5OeCrQE3HhE)
 
-**Dauer:** 2:09 min
+**Dauer:** 2:09 Min
 
-**Inhalt:** Dieses Video erklärt den Unterschied zwischen Daten, die den FAIR-Prinzipien entsprechen, und offenen Daten (Open Data), die für jede Person frei zugänglich sind.
+**Inhalt:** Dieses Video erklärt den Unterschied zwischen Daten, die den FAIR-Prinzipien entsprechen, und offenen Daten (Open Data), die für jede Person frei zugänglich sind. (Video auf Englisch)
 
-**Licence:** [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en)
+Maastricht University (2020). The FAIR principles explained. Powered by DeiC and Deff.
 
-**Transcript:**<!-- style="color: black; font-size: 20px;" -->
+**Lizenz:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en)
 
+
+
+**Übersetzung Transcript:**<!-- style="color: black; font-size: 20px;" -->
 
 
 Unabhängig davon, welche Art von Forschung Sie betreiben oder wo Sie sich in Ihrer Karriere befinden, werden Sie früher oder später auf die [FAIR-Prinzipien](#FAIR-Prinzipien) für Forschungsdaten stoßen. Die Anwendung der FAIR-Prinzipien (Link FAIR-Prinzipien) bedeutet, dass Sie Ihre Forschungsdaten auffindbar, zugänglich, interoperabel und wiederverwendbar (Findable, Accessible, Interoperable and Reusable) machen. Auffindbar bedeutet, dass andere Ihre Daten entdecken können. Zugänglich bedeutet, dass Ihre Daten anderen zur Verfügung gestellt werden können. Interoperabel bedeutet, dass Ihre Daten mit anderen Daten integriert werden können oder leicht von Maschinen genutzt werden können. Wiederverwendbar bedeutet, dass Ihre Daten für neue Forschung genutzt werden können. Diese vier Prinzipien sollten über den gesamten [Lebenszyklus von Daten](https://www.forschungsdaten.info/themen/informieren-und-planen/datenlebenszyklus/) angewendet werden und sind eng miteinander verbunden.
@@ -321,11 +326,13 @@ Biernacka, Katarzyna, Buchholz, Petra, Dolzycka, Dominika, Helbig, Kerstin, Neum
 
 !?[youtube](https://youtu.be/2uZxFu9SFi8)
 
-**Dauer:** 4:54 min
+**Dauer:** 4:54 Min
 
-**Inhalt:** In diesem Video werfen wir einen Blick auf FAIR-Daten und die Bedeutung der einzelnen FAIR-Prinzipien (findable=auffindbar, accessible=zugänglich, interoperable=interoperabel und reusable=wiederverwendbar). Es wird auch behandelt, wie (vertrauenswürdige) Datenrepositorien eine Schlüsselinfrastruktur sind, die FAIR-Daten ermöglicht.
+**Inhalt:** In diesem Video werfen wir einen Blick auf FAIR-Daten und die Bedeutung der einzelnen FAIR-Prinzipien (findable = auffindbar, accessible = zugänglich, interoperable = interoperabel und reusable = wiederverwendbar). Es wird auch behandelt, wie (vertrauenswürdige) Datenrepositorien eine Schlüsselinfrastruktur sind, die FAIR-Daten ermöglicht. (Video auf Englisch)
 
-**Licence:** [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en) Quelle für Lizenz: https://eosc-pillar.d4science.org/catalogue-eoscpillar?path=/dataset/knowledge_clip_-_fair_data_principles
+Ghent University Data Stewards (2020). Knowledge clip: FAIR data principles. Available at: https://youtu.be/2uZxFu9SFi8
+
+**Lizenz:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en) Quelle für Lizenz: https://eosc-pillar.d4science.org/catalogue-eoscpillar?path=/dataset/knowledge_clip_-_fair_data_principles
 
 **Transcript:**<!-- style="color: black; font-size: 20px;" -->
 
@@ -443,11 +450,13 @@ Forschungsdatenmanagement (FDM) beinhaltet alle Aktivitäten im Zusammenhang mit
 
 !?[youtube](https://youtu.be/fMxhFRAul80)
 
-**Dauer:** 3:59 min
+**Dauer:** 3:59 Min
 
 **Inhalt:** Das Video gibt eine kurze Einführung in Forschungsdatenmanagement und Datenmanagementpläne.
 
-**Licence:** [Creative Commons Attribution 3.0 License](http://creativecommons.org/licenses/by/3.0/) ; Anna Daudrich, Jürgen Rohrwild, Tugsbayar Batbayar (2019): Forschungsdaten-Management und Erstellung von Datenmanagementplan-Plänen. https://www.studon.fau.de/pg560960_2993053.html
+Anna Daudrich, Jürgen Rohrwild, Tugsbayar Batbayar (2019): Forschungsdaten-Management und Erstellung von Datenmanagementplan-Plänen. https://www.studon.fau.de/pg560960_2993053.html
+
+**Lizenz:** [CC BY 3.0](http://creativecommons.org/licenses/by/3.0/) ;
 
 **Transcript:**<!-- style="color: black; font-size: 20px;" -->
 
@@ -558,13 +567,13 @@ Eine Übersicht über die fachspezifischen Metadatenstandards findet man u. a. i
 
 !?[youtube](https://youtu.be/1eCMRhbi60U)
 
-**Dauer:** 7:00 min
+**Dauer:** 7:00 Min
 
 **Inhalt:** "Forschungsdaten und ihre Metadaten" ist ein Lehrvideo zum Forschungsdatenmanagement. Das Video erklärt kurz, was Metadaten sind und wo diese im Forschungsdatenlebenszyklus auftreten.
 
-(Schmitz, D., Hausen, D., Trautwein-Bruns, U. (2018). „Forschungsdaten und ihre Metadaten“ RWTH Aachen University, DOI: 10.18154/RWTH-2018-231101).
+Schmitz, D., Hausen, D., Trautwein-Bruns, U. (2018). „Forschungsdaten und ihre Metadaten“ RWTH Aachen University, DOI: 10.18154/RWTH-2018-231101.
 
-**Licence:** [Creative Commons-Lizenz mit Quellenangabe (Wiederverwendung erlaubt)](https://www.youtube.com/t/creative_commons)
+**Lizenz:** [Creative Commons-Lizenz mit Quellenangabe (Wiederverwendung erlaubt)](https://www.youtube.com/t/creative_commons)
 
 **Transcript:**<!-- style="color: black; font-size: 20px;" -->
 
@@ -647,13 +656,13 @@ Realisiert wird die Offene Wissenschaft durch verschiedene Strategien und Verfah
 
 !?[youtube](https://youtu.be/57dTNpXomPs)
 
-**Dauer:** 2:24 min
+**Dauer:** 2:24 Min
 
 **Inhalt:** Im Video wird kurz und knapp erklärt, was Offene Wissenschaft ist und welchen Nutzen sie sowohl für Forschende als auch für Forschungseinrichtungen mit sich bringt.
 
-Konzept & Skript: Elisabeth Mandl und Denis Schröder, Zusätzliche Illustrationen: riesenspatz Infoillustration, Sprecher: Florian Maerlender
+Wikimedia Deutschland (2018). Was ist Offene Wissenschaft? Konzept & Skript: Elisabeth Mandl und Denis Schröder, Zusätzliche Illustrationen: riesenspatz Infoillustration, Sprecher: Florian Maerlender
 
-**Licence:** Dieses Video wurde mithilfe der Software mySimpleshow erstellt und unterliegt der freien Lizenz [C BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.de).
+**Lizenz:** Dieses Video wurde mithilfe der Software mySimpleshow erstellt und unterliegt der freien Lizenz [C BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.de).
 
 **Transcript:**<!-- style="color: black; font-size: 20px;" -->
 
@@ -725,13 +734,13 @@ Neben den Objekt-Identifikatoren spielen in der Forschung weitere persistente Id
 
 !?[youtube](https://youtu.be/uVq7IuDCTFw)
 
-**Dauer:** 6:03 min
+**Dauer:** 6:03 Min
 
 **Inhalt:** Das folgende kurze Video der RWTH Aachen bietet einen guten Einstieg in das Thema persistente Identifikatoren (PID). Sie erfahren, was PIDs sind und wie sie im Zusammenhang mit Forschungsdatenmanagement verwendet werden.
 
-Dominik Schmitz, Daniela Hausen, Ute Trautwein-Bruns. Persistent Identifier (PID). RWTH Aachen University. 2018. Verfügbar unter DOI: [10.18154/RWTH-2018-231347](https://doi.org/10.18154/RWTH-2018-231347).
+Dominik Schmitz, Daniela Hausen, Ute Trautwein-Bruns (2018). Persistent Identifier (PID). RWTH Aachen University. 2018. Verfügbar unter DOI: [10.18154/RWTH-2018-231347](https://doi.org/10.18154/RWTH-2018-231347).
 
-**Licence:** Dieses Video ist lizenziert unter einer Creative Commons-Lizenz mit Quellenangabe ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de)). Ausdrücklich ausgenommen hiervon sind die Avatare/Illustrationen. Diese stehen unter der Standard-Bildlizenz von Shutterstock und werden nicht weiterlizenziert.
+**Lizenz:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de)), ausgenommen: Avatare/Illustrationen (Standard-Bildlizenz von Shutterstock)
 
 **Transcript:**<!-- style="color: black; font-size: 20px;" -->
 
@@ -872,14 +881,14 @@ Auch die Möglichkeiten der Lizenzwahl können die Wahl eines geeigneten Reposit
 
 !?[youtube](https://youtu.be/GuIQO3cFIuw)
 
-**Dauer:** 6:23 min
+**Dauer:** 6:23 Min
 
-**Inhalt:** "Forschungsdaten zu Publikationen" ist ein Lehrvideo in dem anhand eines fiktiven Beispiels gezeigt wird, wie mit Forschungsdaten, die Grundlage einer Publikation sind, verfahren werden kann. Es wird erklärt wie solche Daten bewusst ausgewählt, nachvollziehbar strukturiert und schließlich auf einem Repositorium öffentlich zur Nachnutzung bereitgestellt werden können.
+**Inhalt:** "Forschungsdaten zu Publikationen" ist ein Lehrvideo in dem anhand eines fiktiven Beispiels gezeigt wird, wie mit Forschungsdaten, die Grundlage einer Publikation sind, verfahren werden kann. Es wird erklärt, wie solche Daten bewusst ausgewählt, nachvollziehbar strukturiert und schließlich auf einem Repositorium öffentlich zur Nachnutzung bereitgestellt werden können.
 
 
-(Schmitz,D., Hausen, D., Trautwein-Bruns, U. (2018). „Forschungsdaten zu Publikationen“ RWTH Aachen University, DOI: 10.18154/RWTH-2018-224187)
+Schmitz,D., Hausen, D., Trautwein-Bruns, U. (2018). „Forschungsdaten zu Publikationen“ RWTH Aachen University, DOI: 10.18154/RWTH-2018-224187
 
-**Licence:** [Creative Commons-Lizenz mit Quellenangabe (Wiederverwendung erlaubt)](https://www.youtube.com/t/creative_commons)
+**Lizenz:** [CC BY 4.0](https://www.youtube.com/t/creative_commons)
 
 
 **Transcript:**<!-- style="color: black; font-size: 20px;" -->
