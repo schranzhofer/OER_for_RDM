@@ -46,11 +46,13 @@ File formats can be actively changed by conversion when saving, but data loss ca
 
 !?[youtube](https://www.youtube.com/watch?v=kxxlQnc8u1I)
 
-**Duration:** 5:12 min
+**Duration:** 5:12 mins
 
 **Content:** This short knowledge clip explains what file formats are, why they are important for research data management and what you should pay attention to.
 
-**Licence:** [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en)
+Ghent University Data Stewards (2020). Knowledge clip: file formats. Available at: https://youtu.be/kxxlQnc8u1I
+
+**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en)
 
 **Transcript:**<!-- style="color: black; font-size: 20px;" -->
 
@@ -131,15 +133,13 @@ The time for submission of the DMP depends on the individual requirements of ins
 
 !?[youtube](https://youtu.be/GRNsLTQGjCo)
 
-**Duration:** 5:23 min
+**Duration:** 5:23 mins
 
 **Content:** In this knowledge clip we have a look at Data Management Plans. Why should you plan for data management and what is the typical content of a DMP? And when should you submit it?
 
-**Music:** Junca by Blue Dot Sessions (CC BY NC), available at freemusicarchive.org 
+Ghent University Data Stewards (2020). Knowledge clip: Data Management Plans (DMPs). Available at: https://youtu.be/GRNsLTQGjCo
 
-**Cite as:** Ghent University Data Stewards (2020). Knowledge clip: Data Management Plans (DMPs). Available at: https://youtu.be/GRNsLTQGjCo
-
-**Licence:** [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en)
+**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en)
 
 **Transcript:**<!-- style="color: black; font-size: 20px;" -->
 
@@ -259,11 +259,13 @@ FAIR data is not the same as open data. For example, it is not always possible t
 
 !?[youtube](https://youtu.be/5OeCrQE3HhE)
 
-**Duration:** 2:09 min
+**Duration:** 2:09 mins
 
 **Content:** This video explains the difference between data that complies with the FAIR data principles and open data, which is freely accessible to anyone.
 
-**Licence:** [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en)
+Maastricht University (2020). The FAIR principles explained. Powered by DeiC and Deff.
+
+**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en)
 
 **Transcript:**<!-- style="color: black; font-size: 20px;" -->
 
@@ -319,12 +321,14 @@ Biernacka, Katarzyna, Bierwirth, Maik, Buchholz, Petra, Dolzycka, Dominika, Helb
 
 !?[youtube](https://youtu.be/2uZxFu9SFi8)
 
-**Duration:** 4:45 min
+**Duration:** 4:45 mins
 
 **Content:** In this video we take a look at FAIR data and the meaning of the individual FAIR principles (findable, accessible, interoperable and reusable).
 It also covers how (trusted) data repositories are a key infrastructure that enables FAIR data.
 
-**Licence:** [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en) For documentation; source of License: [Catalogue – D4Science Infrastructure Gateway](https://eosc-pillar.d4science.org/catalogue-eoscpillar?path=/dataset/knowledge_clip_-_fair_data_principles)
+Ghent University Data Stewards (2020). Knowledge clip: FAIR data principles. Available at: https://youtu.be/2uZxFu9SFi8
+
+**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en) For documentation; source of License: [Catalogue – D4Science Infrastructure Gateway](https://eosc-pillar.d4science.org/catalogue-eoscpillar?path=/dataset/knowledge_clip_-_fair_data_principles)
 
 **Transcript:**<!-- style="color: black; font-size: 20px;" -->
 
@@ -440,11 +444,13 @@ Research data management (RDM) includes all activities with digital research dat
 
 !?[youtube](https://youtu.be/bbsLmy3Njv4)
 
-**Duration:** 3:50 min
+**Duration:** 3:50 mins
 
-**Content:** The video gives a short introduction to the concept of “research data management”. Ghent University Data Stewards (2020). Knowledge clip: What is Research Data Management (RDM)?
+**Content:** The video gives a short introduction to the concept of "research data management".
 
-**Licence:** [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en) For documentation; source of License: [Catalogue – D4Science Infrastructure Gateway](https://eosc-pillar.d4science.org/catalogue-eoscpillar?path=/dataset/knowledge_clip_-_fair_data_principles)
+Ghent University Data Stewards (2020). Knowledge clip: What is Research Data Management (RDM)? Available at: https://youtu.be/bbsLmy3Njv4
+
+**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en) For documentation; source of License: [Catalogue – D4Science Infrastructure Gateway](https://eosc-pillar.d4science.org/catalogue-eoscpillar?path=/dataset/knowledge_clip_-_fair_data_principles)
 
 **Transcript:**<!-- style="color: black; font-size: 20px;" -->
 
@@ -572,13 +578,13 @@ An overview on discipline-specific metadata standards is available, for example,
 
 !?[youtube](https://youtu.be/1eCMRhbi60U)
 
-**Duration:** 14:30 min
+**Duration:** 14:30 mins
 
 **Content:** Research Data and their Metadata” is an educational video on research data management. The video briefly explains the concept of metadata and where in the research data lifecycle they become important.
 
-(Schmitz, D., Hausen, D., Trautwein-Bruns, U. (2018). “Research data and their metadata” RWTH Aachen University, DOI: 10.18154/RWTH-2019-10060)
+Schmitz, D., Hausen, D., Trautwein-Bruns, U. (2018). “Research data and their metadata” RWTH Aachen University, DOI: 10.18154/RWTH-2019-10060.
 
-**Licence:** [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en)
+**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en)
 
 **Transcript:**<!-- style="color: black; font-size: 20px;" -->
 
@@ -668,11 +674,13 @@ Open Science is realised through various strategies and procedures, such as free
 
 !?[youtube](https://youtu.be/3m6p6w8oOw4)
 
-**Duration:** 3:50 min
+**Duration:** 3:50 mins
 
 **Content:** This video explains in less than four minutes the idea and advantages of open science. You learn about the 4 Rs and what the word “open” in open science stands for: open access, open data, open methods.
 
-**Licence:** [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en)
+SHB (2019). Open Science: what, how & why?
+
+**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en)
 
 **Transcript:**<!-- style="color: black; font-size: 20px;" -->
 
@@ -748,16 +756,16 @@ In addition to object identifiers, other persistent identifiers play a role in r
 
 !?[youtube](https://youtu.be/kHHNNT2IQjU)
 
-**Duration:** 6:50 min
+**Duration:** 6:50 mins
 
 **Content:** The short video from RWTH Aachen University provides a good introduction to the topic of persistent identifiers (PID). You will learn what PIDs are and how they are used in the context of research data management.
 
-Dominik Schmitz, Daniela Hausen, Ute Trautwein-Bruns: Persistent Identifier (PID). RWTH Aachen University. 2020. Available at DOI: [10.18154/RWTH-2019-10059](https://doi.org/10.18154/RWTH-2019-10059).
+Dominik Schmitz, Daniela Hausen, Ute Trautwein-Bruns (2020). Persistent Identifier (PID). RWTH Aachen University. 2020. Available at DOI: [10.18154/RWTH-2019-10059](https://doi.org/10.18154/RWTH-2019-10059).
 
-**Licence:** This video is licensed under a Creative Commons Attribution licence [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en). Explicitly excepted are the avatars/illustrations. These are licensed under Shutterstock’s standard image license and are not sublicensed to third parties.
+**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en). excepted: avatars/illustrations (Shutterstock’s standard image license)
+
 
 **Transcript:**<!-- style="color: black; font-size: 20px;" -->
-
 
 
 Welcome to our series on research data management. Today's topics are **persistent identifiers**. And the point is, this video explains what a persistent identifier is and what it can be used for. So let's start.
@@ -895,13 +903,13 @@ The options for choosing a license may also influence the choice of a suitable r
 
 !?[youtube](https://youtu.be/o1gMy6pQjOY)
 
-**Duration:** 9:00 min
+**Duration:** 9:00 mins
 
 **Content:** "Research data for publications" is an educational video that uses a fictional example to show how to deal with research data that form the basis of a publication. It explains how such data can be consciously selected, structured in a comprehensible way and finally made publicly available on a repository for reuse.
 
-(Schmitz,D., Hausen, D., Trautwein-Bruns, U. (2018). “Research data to publications” RWTH Aachen University, DOI: 10.18154/RWTH-2019-10063)
+Schmitz,D., Hausen, D., Trautwein-Bruns, U. (2018). “Research data to publications” RWTH Aachen University, DOI: 10.18154/RWTH-2019-10063
 
-**Licence:** [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en)
+**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en)
 
 
 **Transcript:**<!-- style="color: black; font-size: 20px;" -->
