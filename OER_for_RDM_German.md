@@ -24,7 +24,7 @@ Die Autor\*innen wurden im Mai und August 2021 von Praktikantinnen der Universit
 
 **Lizenz:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de) soweit nicht anders angegeben
 
-**Zitationshinweis für die Sammlung:** FAIR Data Austria (2021). Offene Bildungsressourcen Forschungsdatenmanagement. DOI:
+**Zitationshinweis für die Sammlung:** FAIR Data Austria (2021). Offene Bildungsressourcen Forschungsdatenmanagement. DOI: 10.5281/zenodo.6923344
 
 
 ## Dateiformate
