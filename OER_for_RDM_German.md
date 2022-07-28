@@ -3,12 +3,11 @@ author:   Hermann Schranzhofer
 
 email:    hermann.schranzhofer@tugraz.at
 
-version:  0.0.1
+version:  1.0
 
 language: de
 
-comment:  This is a short course on the topic Research Data Management.
-          It was created during the project FAIR Data Austria.
+comment:  This is a collection of open educational resources on the topic Research Data Management. It was created during the project FAIR Data Austria.
 
 link:     https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.css
 
@@ -25,9 +24,8 @@ Die Autor\*innen wurden im Mai und August 2021 von Praktikantinnen der Universit
 
 **Lizenz:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de) soweit nicht anders angegeben
 
-**Zitationshinweis für die Sammlung:** FAIR Data Austria (2021). Offene Bildungsressourcen Forschungsdatenmanagement. (https://fair-office.at/index.php/lernen-sie-mehr/)
+**Zitationshinweis für die Sammlung:** FAIR Data Austria (2021). Offene Bildungsressourcen Forschungsdatenmanagement. DOI:
 
-[Lernen Sie mehr über FAIR](https://fair-office.at/index.php/informationen-fuer-forschende/__-__-lerne-mehr-ueber-fair/)
 
 ## Dateiformate
 
@@ -149,11 +147,6 @@ Die Website der Library of Congress gibt Ihnen detailierte [Beschreibungen von v
 In der [Datenmanagement Best Practices Evaluation Checkliste](https://www.library.ucsb.edu/research-data-services/resources) von der Bibliothek der UCSB finden Sie hilfreiche Tipps zu Dateiformaten und Organisation Ihrer Forschungsdaten.
 
 
-**Zitationshinweis**<!-- style="color: black; font-size: 20px;" -->
-
-FAIR Data Austria (2021). „Dateiformate“. In: Offene Bildungsressourcen Forschungsdatenmanagement. (https://fair-office.at/index.php/dateiformate/).
-
-Lizenz: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de) soweit nicht anders angegeben.
 
 ## Datenmanagementplan (DMP)
 
@@ -227,11 +220,6 @@ https://rdmorganiser.github.io/
 Blättern Sie in der Kollektion der Webinar Reihe „Forschungsdatenmanagement in Österreich“ und finden Sie diverses Material  u.a. zum Thema Datenmanagementpläne (DMP). Die Veranstaltungsreihe „Forschungsdatenmanagement in Österreich“ (Beginn: 2020) richtet sich an Forschende und/oder an Personen aus der Forschungsunterstützung und dient der Vernetzung und dem Austausch zum Thema Management von Forschungsdaten, Verfassen eines Datenmanagementplans und ähnlichen verwandten Themen.  
 
 
-**Zitationshinweis**<!-- style="color: black; font-size: 20px;" -->
-
-FAIR Data Austria (2021). „Datenmanagementplan (DMP)“. In: Offene Bildungsressourcen Forschungsdatenmanagement. (https://fair-office.at/index.php/dmp/)
-
-Lizenz: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de) soweit nicht anders angegeben.
 
 
 
@@ -305,12 +293,6 @@ https://ardc.edu.au/resources/working-with-data/fair-data/fair-self-assessment-t
 
 https://www.openaire.eu/how-to-make-your-data-fair
 
-
-**Zitationshinweis**<!-- style="color: black; font-size: 20px;" -->
-
-FAIR Data Austria (2021). „FAIR Data vs. Open Data“. In: Offene Bildungsressourcen Forschungsdatenmanagement. (https://fair-office.at/index.php/fair-data-vs-open-data/)
-
-Lizenz: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de) soweit nicht anders angegeben.
 
 
 
@@ -434,11 +416,6 @@ Das [Committee on Data for Science and Technology](https://codata.org/) (CODATA)
 [Hodson, S. (2018). Making FAIR data a reality… and the challenges of interoperability and reusability. Open Science Conference 2018.](https://www.open-science-conference.eu/wp-content/uploads/2018/03/OSC2018_Hodson.pdf)
 
 
-**Zitationshinweis**<!-- style="color: black; font-size: 20px;" -->
-
-FAIR Data Austria (2021). „FAIR Data vs. Open Data“. In: Offene Bildungsressourcen Forschungsdatenmanagement. (https://fair-office.at/index.php/fair-prinzipien/)
-
-Lizenz: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de) soweit nicht anders angegeben.
 
 
 
@@ -521,11 +498,6 @@ Biernacka, Katarzyna, Buchholz, Petra, Danker, Sarah Ann, Dolzycka, Dominika, En
 
 https://www.forschungsdaten.org/images/d/d9/Handout-A1-Einf%C3%BChrung-in-das-Forschungsdatenmanagement.pdf
 
-**Zitationshinweis**<!-- style="color: black; font-size: 20px;" -->
-
-FAIR Data Austria (2021). „Datenmanagementplan (DMP)“. In: Offene Bildungsressourcen Forschungsdatenmanagement. (https://fair-office.at/index.php/fdm/)
-
-Lizenz: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de) soweit nicht anders angegeben.
 
 
 ## Metadaten
@@ -640,11 +612,6 @@ Eine kurze Wissensüberprüfung zum Thema Datendokumentation, Metadaten und Meta
 
 https://www.forschungsdaten.info/praxis-kompakt/forschungsdaten-quizfragen/beschreiben-und-dokumentieren/
 
-**Zitationshinweis**<!-- style="color: black; font-size: 20px;" -->
-
-FAIR Data Austria (2021). „Metadaten“. In: Offene Bildungsressourcen Forschungsdatenmanagement. (https://fair-office.at/index.php/metadaten/).
-
-Lizenz: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de) soweit nicht anders angegeben.
 
 
 ## Offene Wissenschaft
@@ -713,11 +680,6 @@ Welche Argumente sprechen für Open Data?
 * Diese Graphik zeigt die verschiedenen Begriffe, die hinter Open Science stecken. Knoth, Petr; Pontika, Nancy (2015): Open Science Taxonomy. figshare. Figure. https://doi.org/10.6084/m9.figshare.1508606.v3
 * Seit Februar 2022 gibt es in Österreich eine [nationale Open Science Policy](https://www.bmbwf.gv.at/Themen/HS-Uni/Hochschulgovernance/Leitthemen/Digitalisierung/Open-Science/Open-Science-Policy-Austria.html).
 
-**Zitationshinweis**<!-- style="color: black; font-size: 20px;" -->
-
-FAIR Data Austria (2021). „Offene Wissenschaften“. In: Offene Bildungsressourcen Forschungsdatenmanagement. (https://fair-office.at/index.php/offene-wissenschaft/).
-
-Lizenz: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de) soweit nicht anders angegeben.
 
 
 ## Persistente Identifikatoren (PID)
@@ -807,11 +769,6 @@ Kann die "broken links"-Problematik durch die Verwendung von PIDs vermieden werd
 * [ROR](https://ror.org/): Das Research Organization Registry (ROR) ist ein Community-geführtes Register von offenen, nachhaltigen, nutzbaren und eindeutigen Identifikatoren für Forschungsorganisationen.
 
 
-**Zitationshinweis**<!-- style="color: black; font-size: 20px;" -->
-
-FAIR Data Austria (2021). „Persistente Identifikatoren (PID)“. In: Offene Bildungsressourcen Forschungsdatenmanagement. (https://fair-office.at/index.php/pid/).
-
-Lizenz: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de) soweit nicht anders angegeben.
 
 
 ## Publikation von Daten
@@ -944,10 +901,3 @@ Bei der Archivierung von Forschungsdaten ist es wichtig, darauf zu achten, dass�
 Eine ausführliche Erklärung von Repositorien mit Beispielen und weiterführenden Links.
 
 https://www.forschungsdaten.info/themen/veroeffentlichen-und-archivieren/repositorien/  
-
-
-**Zitationshinweis**<!-- style="color: black; font-size: 20px;" -->
-
-FAIR Data Austria (2021). „Publikation von Daten“. In: Offene Bildungsressourcen Forschungsdatenmanagement. (https://fair-office.at/index.php/publikation-von-daten/).
-
-Lizenz: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de) soweit nicht anders angegeben.
