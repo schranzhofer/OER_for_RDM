@@ -2,11 +2,11 @@
 
 email: hermann.schranzhofer@tugraz.at
 
-version: 0.0.1
+version: 1.0
 
 language: en
 
-comment: This is a short course on the topic Research Data Management. It was created during the project FAIR Data Austria.
+comment: This is a collection of open educational resources on the topic Research Data Management. It was created during the project FAIR Data Austria.
 
 link: https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.css
 
@@ -26,13 +26,10 @@ translation: Deutsch translations/German.md
 
 **Authors:** Christiane Stork, Elena Fürst, Heike Thöricht, Hermann Schranzhofer, Nikos Gänsdorfer, Tereza Kalová, Therese Macher. The authors were supported by interns at the Vienna University Library in August 2021: Christine Stridde, Rebecca Ringbauer, Sonja Schillings, Tamara Köstenbach.
 
+
 **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) unless otherwise stated
 
-**Cite the collection as:** FAIR Data Austria (2021). Open Educational Resources Research Data Management. Link to website (https://fair-office.at/index.php/lernen-sie-mehr/?lang=en).
-
-[Learn more about FAIR](https://fair-office.at/index.php/information-for-researchers/learn-more-about-fair/?lang=en)
-
-
+**Cite the collection as:** FAIR Data Austria (2021). Open Educational Resources Research Data Management.
 
 ## File Formats
 
@@ -115,11 +112,6 @@ You can find further information including [descriptions of various file formats
 
 You can download [data management best practices evaluation checklist](https://www.library.ucsb.edu/research-data-services/resources) from the UCSB Library for some helpful tips on file formats and organization.
 
-**Citation**<!-- style="color: black; font-size: 20px;" -->
-
-FAIR Data Austria (2021). “File formats “. In: Research Data Management Open Educational Resources Collection. (https://fair-office.at/index.php/fileformates/?lang=en).
-
-License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) unless otherwise stated.
 
 
 
@@ -231,11 +223,6 @@ When should you start writing a DMP?
 
   have a look at the slides (https://phaidra.univie.ac.at/detail/o:1206158#?page=1&pagesize=10&fq=resourcetype_text&collection=o:1168881) and/or video (https://phaidra.univie.ac.at/detail/o:1202593#?page=1&pagesize=10&fq=resourcetype_video&collection=o:1168881, FWF DMP see minutes 36:18-55:00) from the Webinar “Austrian Science Fund (FWF) Research Data Management” to inform about DMPs in general and FWF requirements in particular. The Webinar is part of the Webinar Series “Research Data Management in Austria” (https://phaidra.univie.ac.at/o:1188972) aimed at researchers and/or research support staff and serves to promote networking and exchange on the topic of research data management – like writing a data management plan and related topics
 
-**Citation**<!-- style="color: black; font-size: 20px;" -->
-
-FAIR Data Austria (2021). “Data Management Plan (DMP)“. In: Research Data Management Open Educational Resources Collection. (https://fair-office.at/index.php/dmp/?lang=en).
-
-License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) unless otherwise stated.
 
 
 
@@ -303,11 +290,6 @@ FAIR data is always open data
 
   https://www.openaire.eu/how-to-make-your-data-fair
 
-**Citation**<!-- style="color: black; font-size: 20px;" -->
-
-FAIR Data Austria (2021). “FAIR data vs. Open Data”. In: Research Data Management Open Educational Resources Collection.  (https://fair-office.at/index.php/fair-data-vs-open-data/?lang=en).
-
-**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) unless otherwise stated
 
 
 
@@ -428,11 +410,6 @@ The [Committee on Data for Science and Technology](https://codata.org/) (CODATA)
 [Hodson, S. (2018). Making FAIR data a reality… and the challenges of interoperability and reusability. Open Science Conference 2018.](https://www.open-science-conference.eu/wp-content/uploads/2018/03/OSC2018_Hodson.pdf)
 
 
-**Citation**<!-- style="color: black; font-size: 20px;" -->
-
-FAIR Data Austria (2021). “FAIR data vs. Open Data”. In: Research Data Management Open Educational Resources Collection.  (https://fair-office.at/index.php/fair-prinzipien/?lang=en).
-
-**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) unless otherwise stated
 
 
 
@@ -530,11 +507,6 @@ This resource offers targeted guidance for organisations, scientific communities
 
 https://scienceeurope.org/our-resources/practical-guide-to-the-international-alignment-of-research-data-management/
 
-**Citation**<!-- style="color: black; font-size: 20px;" -->
-
-FAIR Data Austria (2021). “FAIR data vs. Open Data”. In: Research Data Management Open Educational Resources Collection.  (https://fair-office.at/index.php/fdm/?lang=en).
-
-**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) unless otherwise stated
 
 
 
@@ -654,11 +626,6 @@ This Guide is intended to provide a simple generic working-level view of the nee
 
 https://ardc.edu.au/wp-content/uploads/2020/03/Metadata.pdf
 
-**Citation**<!-- style="color: black; font-size: 20px;" -->
-
-FAIR Data Austria (2021). “FAIR data vs. Open Data”. In: Research Data Management Open Educational Resources Collection.  (https://fair-office.at/index.php/metadaten/?lang=en).
-
-**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) unless otherwise stated
 
 
 
@@ -734,12 +701,6 @@ What are the arguments in favour of Open Data?
 * Since 2019, the FWF has had an [Open Access Policy](https://www.fwf.ac.at/en/research-funding/open-access-policy) that applies to both peer-reviewed publications and research data.
 * This graphic shows the different terms behind Open Science. Knoth, Petr; Pontika, Nancy (2015): Open Science Taxonomy. figshare. Figure. https://doi.org/10.6084/m9.figshare.1508606.v3
 * In Austria, a [national Open Science policy](https://www.bmbwf.gv.at/Themen/HS-Uni/Hochschulgovernance/Leitthemen/Digitalisierung/Open-Science/Open-Science-Policy-Austria.html) has been in place since February 2022.
-
-**Citation**<!-- style="color: black; font-size: 20px;" -->
-
-FAIR Data Austria (2021). “Open Science“. In: Research Data Management Open Educational Resources Collection. (https://fair-office.at/index.php/offene-wissenschaft/?lang=en).
-
-**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) unless otherwise stated
 
 
 
@@ -826,11 +787,6 @@ Can the "broken links" problem be avoided by using PIDs?
 * [ROR](https://ror.org/): The Research Organization Registry (ROR) is a community-led registry of open, sustainable, usable, and unique identifiers for research organizations.
 
 
-**Citation**<!-- style="color: black; font-size: 20px;" -->
-
-FAIR Data Austria (2021). “Persistent Identifier (PID)“. In: Research Data Management Open Educational Resources Collection. (https://fair-office.at/index.php/pid/?lang=en).
-
-**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) unless otherwise stated
 
 
 
@@ -983,12 +939,3 @@ https://www.forschungsdaten.info/fdm-im-deutschsprachigen-raum/schweiz/rdm-infra
 This page provides information about research data that needs to be include when publishing an article in Open Research Europe, where your data can be stored, and how your data should be presented.
 
 https://open-research-europe.ec.europa.eu/for-authors/data-guidelines
-
-
-
-
-**Citation**<!-- style="color: black; font-size: 20px;" -->
-
-FAIR Data Austria (2021). “Publication of Data”. In: Research Data Management Open Educational Resources Collection. (https://fair-office.at/index.php/publikation-von-daten/?lang=en).
-
-**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) unless otherwise stated
