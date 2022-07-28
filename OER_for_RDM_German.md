@@ -660,9 +660,9 @@ Realisiert wird die Offene Wissenschaft durch verschiedene Strategien und Verfah
 
 **Inhalt:** Im Video wird kurz und knapp erklärt, was Offene Wissenschaft ist und welchen Nutzen sie sowohl für Forschende als auch für Forschungseinrichtungen mit sich bringt.
 
-Wikimedia Deutschland (2018). Was ist Offene Wissenschaft? Konzept & Skript: Elisabeth Mandl und Denis Schröder, Zusätzliche Illustrationen: riesenspatz Infoillustration, Sprecher: Florian Maerlender
+Wikimedia Deutschland (2018). Was ist Offene Wissenschaft? Konzept & Skript: Elisabeth Mandl und Denis Schröder, Zusätzliche Illustrationen: riesenspatz Infoillustration, Sprecher: Florian Maerlender (Dieses Video wurde mithilfe der Software mySimpleshow erstellt)
 
-**Lizenz:** Dieses Video wurde mithilfe der Software mySimpleshow erstellt und unterliegt der freien Lizenz [C BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.de).
+**Lizenz:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.de).
 
 **Transcript:**<!-- style="color: black; font-size: 20px;" -->
 
