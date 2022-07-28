@@ -29,7 +29,7 @@ translation: Deutsch translations/German.md
 
 **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) unless otherwise stated
 
-**Cite the collection as:** FAIR Data Austria (2021). Open Educational Resources Research Data Management.
+**Cite the collection as:** FAIR Data Austria (2021). Open Educational Resources Research Data Management. DOI: 10.5281/zenodo.6923397
 
 ## File Formats
 
